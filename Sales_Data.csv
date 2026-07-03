@@ -1,0 +1,1501 @@
+OrderID,OrderDate,Region,Category,Product,Quantity,Sales,Profit,Gender
+1,16-10-2025,North,Electronics,Tablet,4,1401.41,379.7,Female
+2,23-11-2025,North,Office Supplies,Marker,1,64.1,7.41,Male
+3,01-06-2025,North,Office Supplies,Notebook,12,11781.95,2515.24,Female
+4,13-08-2024,West,Office Supplies,Paper,13,16985.34,4715.85,Male
+5,12-06-2024,West,Furniture,Cabinet,3,1015.99,283.51,Female
+6,14-04-2024,North,Furniture,Chair,6,7645.75,1767.07,Male
+7,14-02-2024,West,Office Supplies,Pen,15,8703.46,1876.57,Male
+8,05-10-2025,East,Office Supplies,Notebook,12,1475.3,366.43,Male
+9,23-10-2024,North,Electronics,Laptop,7,3019.81,,Female
+10,08-01-2025,South,Furniture,Cabinet,4,4047.44,1054.54,Female
+11,30-11-2025,North,Office Supplies,Notebook,9,9891.97,979.51,Male
+12,23-01-2025,East,Office Supplies,Notebook,11,5499.32,1542.53,Female
+13,27-02-2024,South,Electronics,,7,2913.8,330.12,Male
+14,03-08-2025,East,Electronics,Monitor,7,9305.32,2259.85,Female
+15,26-05-2024,East,Electronics,Phone,12,10209.9,1315.26,Male
+16,21-08-2025,West,Office Supplies,Marker,6,2067.57,722.12,Female
+17,05-06-2025,West,Electronics,Laptop,14,2551.93,607.96,Male
+18,27-11-2025,West,Office Supplies,Pen,7,4093.58,1427.99,Female
+19,25-06-2025,East,Office Supplies,Pen,11,11953.35,3042.28,Male
+20,03-07-2025,East,Office Supplies,Paper,2,908.76,,Female
+21,04-01-2024,East,Office Supplies,Notebook,9,12336.2,3838.48,Male
+22,01-11-2024,South,Electronics,Tablet,13,3368.2,1131.88,Female
+23,27-06-2025,North,Office Supplies,Paper,8,390.6,128.4,Female
+24,10-11-2024,South,Electronics,Phone,15,12895.32,949.45,Female
+25,12-05-2025,North,Office Supplies,Notebook,3,2989.29,998.59,Female
+26,18-06-2024,East,Office Supplies,Marker,4,5579.17,1543.08,Female
+27,07-12-2025,South,Office Supplies,Paper,7,10449.75,2559.81,Female
+28,24-03-2025,West,Electronics,Phone,4,459.03,25.85,Male
+29,21-07-2025,South,Office Supplies,Notebook,1,125.07,29.93,Male
+30,22-08-2024,North,Electronics,Tablet,2,1561.9,208.58,Male
+31,12-05-2025,South,Office Supplies,Notebook,12,16854.73,3730.17,Male
+32,29-04-2025,South,Furniture,Table,4,638.41,158.13,Male
+33,28-12-2024,West,Furniture,Table,14,15386.45,3877.53,Male
+34,23-10-2025,North,Electronics,Monitor,12,6266.01,1933.08,Female
+35,11-09-2024,South,Electronics,Monitor,3,1933.15,258.2,Male
+36,12-09-2024,North,Furniture,Chair,1,985.17,209.03,Female
+37,16-01-2024,North,Electronics,Phone,7,5171.24,590.16,Male
+38,14-02-2025,North,Electronics,Monitor,1,1478.26,191.52,Female
+39,10-04-2025,East,Furniture,Table,3,903.15,104.14,Male
+40,29-02-2024,North,Office Supplies,Paper,1,94.21,18.19,Female
+41,27-06-2025,South,Electronics,Laptop,14,4130.29,943.81,Male
+42,22-11-2025,South,Furniture,Chair,15,12946.79,2895.88,Female
+43,10-02-2024,North,Furniture,Cabinet,15,6089,1527.84,Male
+44,17-11-2024,South,Furniture,Table,3,3042.3,425.92,Female
+45,19-11-2024,North,Electronics,Monitor,10,14977.13,5224.46,Male
+46,16-03-2024,South,Office Supplies,Paper,3,4203.67,1321.04,
+47,07-09-2024,East,Furniture,Desk,8,10031.54,2618.85,Female
+48,18-09-2025,North,Office Supplies,Paper,15,15027.23,4984.22,
+49,17-05-2024,East,Electronics,Laptop,12,10065.25,1325.64,
+50,11-09-2025,South,Office Supplies,Paper,4,4149.98,1269.37,Male
+51,01-06-2025,West,Furniture,Chair,2,1917.48,572.95,Female
+52,15-02-2024,North,Furniture,Desk,11,16171.11,1592.44,Male
+53,28-03-2025,West,Office Supplies,Pen,2,262.72,82.74,Female
+54,01-06-2024,North,Furniture,Desk,7,1460.34,208.07,
+55,10-02-2024,East,Electronics,Phone,11,1893.48,537.81,
+56,20-02-2025,South,Electronics,Phone,13,15859.25,4986.54,Female
+57,26-01-2024,South,Office Supplies,Paper,13,18168.9,5281.16,
+58,11-09-2024,East,Electronics,Laptop,7,9175.65,2822.23,
+59,15-08-2024,South,Furniture,Cabinet,5,6171.97,1921.93,Female
+60,16-08-2024,North,Office Supplies,Notebook,7,3540.79,1095.19,Male
+61,12-10-2024,East,Office Supplies,Marker,11,16193.12,3414.56,Male
+62,29-01-2024,North,Furniture,Desk,10,14445.51,1872.71,
+63,21-04-2024,West,Furniture,Cabinet,7,6420.32,1306.07,
+64,29-01-2025,South,Furniture,Chair,12,7984.38,1644.59,Male
+65,05-07-2025,South,Furniture,Table,2,2848.67,929.33,Female
+66,30-09-2025,East,Office Supplies,Pen,12,16224.83,3279.63,Male
+67,13-11-2025,West,Furniture,Table,12,5490.84,484.22,Female
+68,06-03-2025,West,Office Supplies,Notebook,10,8622.76,1481.58,Male
+69,01-01-2024,East,Furniture,Desk,7,8280.46,1921.05,Female
+70,25-11-2024,West,Furniture,Table,11,3699.06,710.06,Male
+71,22-06-2024,North,Furniture,Cabinet,2,2462.53,678.04,Female
+72,19-11-2025,East,Electronics,Phone,3,168.45,20.8,Male
+73,01-05-2025,North,Furniture,Table,15,14280.79,1547.05,Female
+74,14-12-2025,West,Furniture,Table,4,953.62,244.4,Male
+75,19-04-2024,West,Electronics,Phone,13,18691.27,3838.95,Female
+76,21-02-2024,South,Electronics,Monitor,3,3618.29,905.56,Male
+77,26-07-2025,East,Furniture,Table,14,19070.03,3504.58,Female
+78,11-06-2024,West,Furniture,Cabinet,13,5016.89,1210.57,Male
+79,17-06-2025,West,Office Supplies,Notebook,5,3355.06,885.95,Female
+80,28-08-2024,East,Furniture,Cabinet,15,12291.38,1124.81,Male
+81,24-08-2024,West,Office Supplies,Notebook,12,4039.8,704.78,Female
+82,04-12-2024,West,Furniture,Chair,4,5010.72,836,Male
+83,21-08-2025,North,Office Supplies,Marker,8,229.81,35.74,Female
+84,03-02-2025,West,Office Supplies,Notebook,8,2757.95,498.5,Male
+85,30-01-2024,West,Furniture,Table,12,3171.19,603.21,Female
+86,10-05-2024,North,Furniture,Chair,2,1942.54,176.21,Male
+87,17-04-2025,South,Electronics,Tablet,7,3531.37,658.28,Male
+88,11-12-2024,West,Furniture,Table,5,6278.34,1199.74,Male
+89,06-07-2025,North,Furniture,Desk,11,1337.11,450.85,Male
+90,11-02-2024,North,Electronics,Phone,14,702.27,67.22,Male
+91,09-05-2024,West,Office Supplies,Pen,10,14226.8,2696.12,Male
+92,19-09-2024,East,Electronics,Laptop,13,16023.35,5438.59,Male
+93,20-04-2024,North,Furniture,Table,7,9893.64,1083.34,Male
+94,29-08-2025,South,Electronics,Tablet,14,14457.85,4216.75,Male
+95,02-08-2025,North,Furniture,Table,11,6252.89,1261.76,Female
+96,15-12-2024,North,Furniture,Table,2,1323.23,209.94,Female
+97,15-04-2025,South,Furniture,Desk,12,9506.22,2330.33,Female
+98,22-09-2025,West,Furniture,Table,14,15426.86,2013.49,Female
+99,08-09-2024,North,Furniture,Table,4,4522.82,999.34,Male
+100,15-11-2025,West,Furniture,Chair,8,10235.28,1070.12,Female
+101,05-08-2024,East,Furniture,Cabinet,5,6614.37,1722.09,Male
+102,09-10-2024,North,Office Supplies,Notebook,2,754.41,129.7,Female
+103,22-07-2025,South,Office Supplies,Marker,11,11808.79,2178.16,Male
+104,18-01-2024,North,Furniture,Desk,7,7306.91,1036.57,Female
+105,18-08-2025,East,Furniture,Cabinet,7,10465.1,2251.22,Male
+106,26-12-2024,West,Furniture,Cabinet,5,1805.98,481.09,Female
+107,19-11-2024,North,Office Supplies,Notebook,4,1361,265.75,Female
+108,26-08-2025,East,Electronics,Phone,5,1783.38,185.17,Male
+109,15-01-2024,South,Furniture,Chair,1,838.97,217.48,Female
+110,09-05-2024,West,Electronics,Laptop,10,4408.22,853.49,Male
+111,14-12-2024,South,Electronics,Tablet,14,10178.55,3019.31,Female
+112,14-02-2025,West,Electronics,Laptop,3,722.44,158.11,Male
+113,07-11-2024,North,Electronics,Laptop,9,10362.39,2402.99,Female
+114,25-09-2025,South,Office Supplies,Marker,8,10916.69,1519.67,
+115,25-08-2025,West,Furniture,Chair,10,14409.61,1149.46,
+116,31-07-2024,South,Furniture,Chair,3,1125,242.55,
+117,09-06-2024,North,Furniture,Table,12,10786.09,1481.77,
+118,25-08-2024,East,Office Supplies,Paper,12,15506.62,1106.46,
+119,27-08-2024,East,Office Supplies,Notebook,7,1329.08,156.09,
+120,01-06-2024,East,Electronics,Laptop,1,265.57,37.79,
+121,05-08-2025,East,Furniture,Chair,8,8313.95,2160.96,Male
+122,05-10-2024,West,Furniture,Chair,10,789.94,141.88,Female
+123,26-11-2024,East,Electronics,Laptop,4,5774.51,1736.9,Male
+124,12-08-2025,North,Office Supplies,Paper,10,795.43,220.24,Female
+125,26-04-2025,West,Furniture,Desk,10,6651.1,1957.24,Male
+126,03-04-2024,West,Furniture,Table,6,2971,241.78,Female
+127,13-06-2024,East,Furniture,Table,5,5003.12,851.21,Male
+128,17-07-2025,North,Furniture,Chair,6,2361.3,200.18,Female
+129,17-02-2025,North,Office Supplies,Marker,7,701.55,144.19,Male
+130,29-09-2025,West,Office Supplies,Marker,13,1253.01,163.04,Female
+131,14-05-2024,East,Furniture,Table,2,125.45,29.98,Female
+132,02-09-2024,South,Furniture,Chair,9,5614.44,659.19,Male
+133,26-04-2024,West,Electronics,Phone,8,11202.61,1541.01,Female
+134,23-12-2025,East,Furniture,Table,8,3045.77,656,Male
+135,27-01-2025,South,Office Supplies,Notebook,14,1726.46,486.52,Female
+136,28-02-2025,East,Office Supplies,Paper,14,333.15,89.22,
+137,24-08-2025,West,Electronics,Monitor,9,6631.43,992.94,
+138,10-07-2025,West,Furniture,Cabinet,14,4188.88,1085.97,
+139,08-08-2025,West,Electronics,Monitor,1,490.9,94.2,
+140,25-01-2025,West,Office Supplies,Notebook,8,11583.52,1017.89,
+141,27-08-2025,East,Electronics,Monitor,2,1596.82,298.73,
+142,27-05-2024,West,Office Supplies,Notebook,2,1429.69,487.18,Male
+143,12-12-2024,West,Office Supplies,Pen,14,7087.88,1788.32,Female
+144,30-06-2025,West,Furniture,Table,14,11489.85,2702.85,
+145,28-08-2024,East,Electronics,Laptop,7,10275.58,2857.75,
+146,21-12-2025,North,Furniture,Desk,12,5558.52,326.2,Male
+147,28-11-2024,North,Furniture,Cabinet,6,3944.5,486.2,Female
+148,25-02-2025,South,Electronics,Phone,2,1844.1,303.84,Male
+149,30-11-2025,South,Furniture,Desk,4,2810.01,354.6,Male
+150,18-09-2024,North,Furniture,Cabinet,11,9118.62,657.99,Male
+151,19-12-2024,East,Office Supplies,Marker,12,4681.74,1421.33,
+152,22-07-2024,West,Furniture,Chair,4,2337.68,368.62,Female
+153,29-10-2024,East,Electronics,Monitor,5,159.92,49.5,Female
+154,20-02-2024,West,Furniture,Desk,10,12068.59,1396.35,Female
+155,13-07-2024,East,Office Supplies,Notebook,11,1801.83,429.26,Male
+156,10-02-2024,East,Furniture,Chair,10,5599.95,500.77,Female
+157,29-10-2024,East,Office Supplies,Marker,3,951.53,272.09,Male
+158,09-01-2025,East,Electronics,Tablet,15,18608.11,3620.29,Male
+159,29-10-2024,East,Electronics,Monitor,2,456.64,155.23,Male
+160,23-11-2025,West,Office Supplies,Paper,2,2380.42,128.96,Male
+161,03-07-2025,North,Furniture,Cabinet,11,12413.91,1597.03,
+162,25-01-2025,East,Electronics,Phone,8,456.29,143.85,Male
+163,28-07-2025,East,Office Supplies,Notebook,11,1249.17,371.2,Male
+164,18-12-2025,East,Office Supplies,Marker,2,453.74,151.49,Female
+165,07-11-2024,West,Electronics,Laptop,4,5332.58,483.66,Male
+166,09-04-2025,East,Office Supplies,Marker,10,11185.58,1077.81,Female
+167,28-02-2025,North,Furniture,Table,5,342.1,55.13,Male
+168,30-03-2025,West,Electronics,Tablet,2,2943.55,471.56,Male
+169,22-10-2025,East,Electronics,Monitor,5,1504.58,130.37,Female
+170,10-04-2025,North,Office Supplies,Notebook,11,10630.94,3628.64,Male
+171,21-02-2024,East,Electronics,Phone,13,11122.48,785.06,Female
+172,21-07-2025,South,Office Supplies,Notebook,14,18300.09,2718.81,Male
+173,31-05-2024,North,Furniture,Desk,3,2458.56,711.89,Female
+174,22-04-2024,North,Electronics,Laptop,6,7135.06,866.05,Male
+175,27-11-2024,North,Electronics,Tablet,1,207.6,36.6,Female
+176,26-04-2024,North,Furniture,Table,13,7225.63,1648.16,Male
+177,07-04-2025,South,Office Supplies,Pen,12,14150.11,4387.87,Female
+178,17-06-2025,East,Furniture,Chair,1,1497.91,455.65,Male
+179,12-03-2025,North,Furniture,Table,2,2701.83,396.18,Female
+180,31-05-2024,North,Electronics,Tablet,10,9569.54,2052.73,Male
+181,28-11-2024,West,Office Supplies,Paper,8,6145.72,1100.45,Female
+182,19-12-2025,North,Office Supplies,Notebook,7,4818.11,571.18,Male
+183,13-12-2024,West,Furniture,Table,12,1928.72,343.37,Male
+184,12-11-2025,East,Furniture,Desk,11,15246.2,1069.37,Male
+185,28-03-2024,North,Furniture,Chair,12,13361.02,3921.87,Male
+186,23-07-2025,North,Office Supplies,Paper,11,2209.93,344.92,Male
+187,12-11-2025,West,Office Supplies,Pen,5,4543.03,706.41,Male
+188,14-08-2025,South,Electronics,Monitor,4,5095.87,790.03,Male
+189,23-07-2025,East,Electronics,Tablet,10,3547.15,634,Male
+190,28-07-2025,North,Office Supplies,Paper,1,287.02,74.86,Male
+191,12-11-2024,East,Furniture,Chair,3,3922.19,862.48,Male
+192,14-02-2025,North,Electronics,Laptop,2,2248.49,257.54,Male
+193,05-03-2025,West,Furniture,Desk,6,2887.34,425.35,Male
+194,04-08-2025,North,Electronics,Phone,3,3409.7,221.39,Male
+195,24-03-2024,East,Furniture,Table,8,7347.78,1280.39,Male
+196,08-08-2024,North,Furniture,Table,2,878.41,222.72,Male
+197,13-05-2025,East,Electronics,Phone,7,10338.86,686.86,Male
+198,28-07-2024,East,Electronics,Phone,13,5176.2,768.34,Male
+199,08-01-2024,West,Office Supplies,Marker,3,633.58,132.91,Male
+200,23-08-2024,East,Electronics,Monitor,14,15655.1,2831.47,Male
+201,15-04-2025,North,Furniture,Table,10,6185.46,1497.14,Male
+202,23-10-2024,North,Furniture,Chair,6,1646.23,550.31,Female
+203,16-04-2025,East,Electronics,Monitor,14,2473.48,446.97,Male
+204,14-02-2025,North,Furniture,Cabinet,12,6269.76,939.97,Female
+205,21-06-2024,North,Office Supplies,Pen,9,6972.56,2243.61,Female
+206,23-12-2024,East,Office Supplies,Notebook,4,688.6,87.31,Female
+207,26-06-2024,South,Office Supplies,Pen,3,4283.74,1021.18,Female
+208,20-04-2025,West,Office Supplies,Paper,14,20398.56,2954.56,Female
+209,26-03-2025,North,Furniture,Table,11,5149.92,681.86,Female
+210,27-02-2024,East,Office Supplies,Pen,5,3516.89,215.52,Female
+211,12-01-2025,East,Electronics,Laptop,10,8992.38,1486.84,Female
+212,17-08-2025,North,Furniture,Desk,6,5492.45,1100.74,Female
+213,04-03-2024,West,Electronics,Tablet,12,1737.69,423.72,Female
+214,10-02-2024,South,Office Supplies,Marker,8,6364.97,1482.67,Female
+215,07-01-2025,East,Furniture,Table,7,8163.46,2070.82,Female
+216,23-02-2024,East,Electronics,Tablet,2,1691.57,280.75,Female
+217,15-09-2024,South,Furniture,Chair,10,10021.46,3257.21,Female
+218,13-11-2024,West,Electronics,Laptop,5,4236.02,1029.56,Female
+219,02-12-2024,South,Office Supplies,Pen,11,11135.02,2255.36,Female
+220,19-01-2024,East,Furniture,Desk,4,2103.06,588.53,Female
+221,15-07-2024,South,Electronics,Phone,2,915.54,262.24,Female
+222,03-06-2025,North,Office Supplies,Paper,15,17312.03,1546.22,Male
+223,20-01-2025,South,Electronics,Phone,14,14635.76,3474.85,
+224,18-06-2024,West,Electronics,Monitor,6,6126.1,742.85,
+225,30-03-2025,East,Office Supplies,Marker,4,3241.35,463,
+226,25-04-2025,South,Furniture,Table,8,9270.15,2627.51,
+227,29-05-2025,West,Electronics,Phone,13,11893.72,3709.66,
+228,23-02-2024,West,Furniture,Chair,12,15263.05,4660.57,
+229,18-10-2024,North,Electronics,Tablet,8,10878.83,1024.84,
+230,23-03-2025,North,Electronics,Monitor,15,8060.79,467.53,
+231,24-02-2024,West,Office Supplies,Paper,4,2366.1,176.23,
+232,17-08-2024,North,Furniture,Chair,14,15088.67,2272.16,
+233,29-05-2024,South,Electronics,Tablet,15,18720.71,4845.32,
+234,22-05-2024,West,Furniture,Chair,15,2058.81,261.01,
+235,02-06-2024,West,Electronics,Tablet,4,1862.82,119.83,
+236,05-03-2025,West,Electronics,Laptop,14,19034.64,4359.35,
+237,17-01-2024,South,Office Supplies,Notebook,5,3276.37,768.12,
+238,03-09-2024,West,Electronics,Laptop,9,13162.4,925.37,
+239,22-06-2025,North,Furniture,Table,1,960.79,330.81,
+240,16-09-2024,North,Furniture,Chair,6,2261.2,558.81,
+241,16-04-2024,East,Electronics,Laptop,6,4968.6,1461.03,
+242,28-06-2024,West,Office Supplies,Marker,11,3187.49,288.33,
+243,13-04-2025,North,Furniture,Desk,1,1190.84,375.99,
+244,19-11-2024,East,Office Supplies,Marker,14,11531.6,1452.91,
+245,24-10-2025,South,Furniture,Cabinet,14,16459.04,5098.01,
+246,05-12-2024,East,Electronics,Tablet,7,9355.08,2553.86,Male
+247,30-01-2025,East,Electronics,Monitor,12,9076.02,2970.52,Female
+248,15-06-2025,East,Electronics,Monitor,2,1314.6,458.18,Male
+249,03-07-2024,East,Furniture,Chair,2,1010.64,140.17,Female
+250,01-04-2025,West,Electronics,Monitor,6,4090.51,1096.44,Male
+251,27-12-2024,West,Furniture,Chair,2,2026.7,348.31,
+252,09-06-2025,South,Electronics,Phone,14,12868.91,3659.84,Male
+253,05-02-2024,South,Electronics,Phone,13,12672.93,2010.5,Female
+254,03-08-2025,North,Office Supplies,Notebook,11,7544.74,1216.89,Male
+255,30-03-2025,North,Office Supplies,Notebook,9,5067.77,731.36,Female
+256,12-10-2024,South,Electronics,Laptop,12,3544.21,727.71,Male
+257,29-07-2025,North,Furniture,Cabinet,12,8165.81,2849.13,Female
+258,19-10-2024,West,Electronics,Laptop,3,3846.55,713.97,Male
+259,31-12-2025,West,Electronics,Tablet,11,5876.08,408.28,Female
+260,09-07-2025,East,Furniture,Desk,12,12841.85,3339.73,Male
+261,27-06-2024,East,Office Supplies,Notebook,2,2955.99,850.2,Female
+262,30-08-2024,West,Electronics,Tablet,9,7802.74,1484.25,Male
+263,18-07-2025,South,Office Supplies,Pen,2,955.5,334.31,Female
+264,05-05-2025,West,Furniture,Chair,3,4377.37,1062.39,
+265,05-04-2025,West,Office Supplies,Paper,3,3958.14,1124.42,
+266,17-10-2025,South,Electronics,Monitor,9,12310.69,820.19,
+267,07-05-2024,South,Furniture,Desk,3,1492.61,392.26,
+268,20-12-2024,East,Electronics,Tablet,4,3839.54,826.47,
+269,08-05-2024,East,Office Supplies,Pen,9,8717.95,1983.7,
+270,17-08-2025,South,Electronics,Tablet,14,19423.82,1211.24,Male
+271,30-01-2024,North,Electronics,Tablet,11,3651.96,809.42,Female
+272,24-09-2025,North,Furniture,Cabinet,11,15794.26,3078.04,Male
+273,02-12-2025,West,Furniture,Table,2,2078.3,202.48,Female
+274,01-03-2025,West,Furniture,Desk,6,5507.14,791.79,Male
+275,22-11-2024,East,Furniture,Desk,13,7389.19,1614.5,Female
+276,22-11-2024,South,Furniture,Chair,5,3427.01,316.19,Male
+277,21-02-2024,East,Furniture,Table,4,5779.1,1853.32,Female
+278,01-12-2024,East,Electronics,Phone,8,11952.28,2271.47,Male
+279,11-11-2024,West,Electronics,Laptop,7,5376.4,1828.01,Female
+280,08-08-2024,East,Electronics,Laptop,5,3762.22,1183.98,Male
+281,31-10-2025,West,Furniture,Chair,14,2507.34,226.11,Female
+282,27-09-2024,East,Furniture,Cabinet,1,612.86,135.49,Male
+283,18-07-2024,East,Office Supplies,Paper,2,1183.59,219.09,Female
+284,17-07-2025,East,Office Supplies,Pen,3,4389.37,738.17,Male
+285,13-12-2024,East,Electronics,Phone,10,7735.01,1547.18,Female
+286,16-02-2024,North,Electronics,Tablet,13,9374.84,1754,Male
+287,12-09-2025,South,Furniture,Cabinet,3,1804.72,424.02,Female
+288,02-11-2024,East,Office Supplies,Marker,12,10237.53,1970.39,Male
+289,18-01-2024,East,Furniture,Chair,7,6187.15,1788.25,Female
+290,05-12-2025,North,Office Supplies,Marker,5,7256.32,2067.12,Male
+291,15-08-2025,South,Office Supplies,Pen,10,7310.64,1515.27,Female
+292,26-09-2025,West,Electronics,Phone,1,867.4,225.66,Male
+293,14-07-2024,North,Furniture,Cabinet,7,1708.83,439.43,Female
+294,24-02-2025,West,Office Supplies,Pen,12,2692.34,302.09,Male
+295,28-11-2024,West,Office Supplies,Marker,6,8615.37,1618.82,Female
+296,29-06-2025,East,Office Supplies,Paper,11,12787.99,3405.15,Male
+297,20-10-2025,East,Office Supplies,Marker,4,5747.44,768.44,Female
+298,01-11-2024,South,Furniture,Cabinet,12,3921.25,1025.39,Male
+299,20-11-2024,West,Furniture,Cabinet,5,1001.87,253.46,Female
+300,23-01-2025,West,Furniture,Desk,5,411.29,138.44,Male
+301,21-03-2024,East,Furniture,Cabinet,12,8748.45,967.76,Female
+302,05-07-2025,East,Office Supplies,Paper,3,544.97,148.38,Male
+303,02-09-2024,South,Electronics,Phone,11,4010.58,321.08,Female
+304,04-12-2024,West,Electronics,Phone,1,1447.49,497.03,Male
+305,10-06-2024,West,Office Supplies,Marker,8,7862.38,2176.1,Female
+306,21-10-2024,East,Furniture,Chair,15,17365.69,4266.57,Male
+307,25-08-2024,North,Electronics,Monitor,15,18894.83,6238.63,Female
+308,07-02-2024,West,Furniture,Desk,15,16927.87,5276.2,Male
+309,23-10-2024,North,Electronics,Tablet,10,9121.19,2996.64,Female
+310,09-12-2024,East,Furniture,Table,15,21136.04,6453.21,Male
+311,24-04-2025,East,Electronics,Laptop,6,1562.95,293.33,Female
+312,20-09-2024,South,Electronics,Tablet,13,5936.27,1497.84,Male
+313,16-07-2024,South,Office Supplies,Marker,14,9142.01,1356.47,Female
+314,14-02-2025,North,Electronics,Phone,8,3991.44,496.59,Male
+315,24-09-2024,West,Electronics,Monitor,13,5396.97,803.54,Female
+316,19-08-2025,North,Furniture,Cabinet,12,4436.73,1110.67,Male
+317,21-04-2025,East,Electronics,Monitor,11,8401.03,2676.03,Female
+318,21-12-2025,East,Office Supplies,Pen,11,15134.6,2096.31,Male
+319,21-09-2025,South,Electronics,Phone,8,1973.72,541.43,Female
+320,12-09-2025,East,Furniture,Table,13,10601.84,2642.28,Male
+321,11-08-2024,South,Office Supplies,Pen,9,6130.68,1600.9,Female
+322,20-03-2024,North,Electronics,Phone,10,8142.57,809.06,Male
+323,16-06-2025,West,Electronics,Phone,12,10596.7,818.94,Female
+324,06-06-2025,West,Electronics,Monitor,3,2338.82,437.45,Male
+325,29-02-2024,West,Office Supplies,Paper,12,626.64,79.17,Female
+326,04-01-2024,South,Office Supplies,Pen,1,647.07,168.31,Male
+327,08-07-2025,North,Electronics,Monitor,1,444.89,46.27,Female
+328,18-05-2024,West,Furniture,Table,8,10456.3,3367.24,Male
+329,19-01-2025,North,Office Supplies,Notebook,11,14225.47,1217.56,Female
+330,04-07-2025,West,Office Supplies,Notebook,12,17622.14,5294.51,Male
+331,24-01-2024,East,Furniture,Table,9,5231.96,622.08,Female
+332,16-04-2025,East,Electronics,Tablet,4,5629.47,1505.92,Male
+333,25-04-2024,North,Office Supplies,Marker,10,11537.59,3635.81,Female
+334,17-01-2024,South,Electronics,Laptop,2,1798.07,330.72,Male
+335,19-11-2025,North,Electronics,Laptop,7,4687.65,993.44,Female
+336,27-02-2024,South,Office Supplies,Paper,4,4909.45,1322.88,Male
+337,22-11-2024,East,Electronics,Tablet,15,3480.38,863.36,Female
+338,14-08-2024,West,Furniture,Cabinet,1,843.94,192,Male
+339,28-06-2024,West,Office Supplies,Marker,1,1458.99,485.08,Female
+340,18-11-2025,West,Office Supplies,Paper,12,7633.93,723.43,Male
+341,20-01-2025,South,Office Supplies,Marker,4,5108.1,716.26,Female
+342,25-12-2025,South,Furniture,Chair,9,5676.86,993.18,Male
+343,26-06-2025,South,Furniture,Desk,5,1604.69,391.56,Female
+344,05-04-2025,East,Electronics,Phone,1,417.32,105.21,Male
+345,09-09-2025,North,Electronics,Phone,13,14915.04,3986.66,Female
+346,26-07-2025,South,Furniture,Desk,14,19073.72,2688.56,Male
+347,16-01-2024,South,Electronics,Laptop,12,17992.4,3484.7,Female
+348,05-09-2024,South,Furniture,Desk,9,4463.91,602.26,Male
+349,22-04-2025,East,Furniture,Cabinet,6,4673.81,930.94,Female
+350,10-04-2024,West,Furniture,Desk,6,2898.75,184.69,Male
+351,14-08-2024,South,Electronics,Tablet,9,12630.98,2826.09,Female
+352,03-03-2025,East,Electronics,Phone,6,2162.57,477.79,Female
+353,08-09-2024,West,Office Supplies,Paper,5,5748.87,1130.15,Female
+354,19-10-2025,West,Furniture,Desk,12,14358.77,1447.07,Female
+355,13-07-2025,West,Electronics,Laptop,9,630.53,191.69,Female
+356,15-11-2025,North,Electronics,Monitor,3,3800.9,453.94,Female
+357,25-12-2025,South,Electronics,Phone,9,6254.05,426.12,Female
+358,15-10-2025,West,Office Supplies,Marker,1,29.79,6.42,Female
+359,13-01-2024,North,Office Supplies,Paper,9,13200.02,727.89,Female
+360,15-12-2025,West,Electronics,Laptop,15,2438.17,230.82,Female
+361,15-07-2024,East,Furniture,Cabinet,13,7896.29,1278.53,Female
+362,19-02-2025,West,Office Supplies,Notebook,12,4251.22,1084.96,Female
+363,23-03-2024,North,Electronics,Monitor,7,4047.48,780.36,Female
+364,14-10-2025,North,Office Supplies,Notebook,2,1519.58,273.79,Female
+365,05-12-2024,North,Office Supplies,Pen,4,1331.59,413.37,Female
+366,03-08-2025,West,Furniture,Chair,15,1950.53,639.14,Female
+367,10-07-2025,North,Electronics,Tablet,1,1442.97,326.27,Female
+368,30-12-2025,West,Electronics,Tablet,3,2563.97,564.1,Female
+369,02-02-2025,East,Furniture,Desk,13,19278.32,5152.11,
+370,27-05-2025,East,Electronics,Laptop,7,2545.01,185.29,
+371,11-09-2025,West,Furniture,Chair,11,4669.76,1624.03,
+372,17-05-2025,South,Furniture,Table,7,2064.24,466.03,
+373,24-01-2025,North,Office Supplies,Paper,13,5001.69,360.38,
+374,01-10-2024,South,Furniture,Desk,12,7159.69,1132.74,
+375,03-04-2024,North,Furniture,Table,6,6880.76,555.07,Male
+376,30-03-2024,South,Furniture,Table,9,7569.14,1305.02,Male
+377,27-01-2024,North,Furniture,Chair,10,9051.05,1333.48,Male
+378,29-01-2025,North,Furniture,Table,7,8212.19,2196.38,Male
+379,26-07-2025,South,Office Supplies,Notebook,11,6418.32,588.25,Male
+380,04-11-2024,East,Furniture,Desk,2,534.93,71.03,Male
+381,02-11-2024,West,Electronics,Tablet,5,7087.24,1887.12,Male
+382,22-05-2025,South,Furniture,Chair,3,1412.68,472.75,Male
+383,06-12-2024,West,Furniture,Table,6,3943.87,1171.57,Male
+384,28-10-2025,South,Furniture,Cabinet,10,14219.73,1567.8,Male
+385,17-11-2024,South,Furniture,Cabinet,5,5538.07,1328.42,Male
+386,12-08-2025,South,Furniture,Table,5,6142.06,1031.13,Male
+387,26-04-2024,South,Office Supplies,Notebook,11,12716.82,738.53,Male
+388,17-04-2025,South,Furniture,Cabinet,14,14635.55,4327.58,Male
+389,22-02-2025,West,Electronics,Tablet,4,1575.88,151.67,Male
+390,09-03-2025,West,Electronics,Monitor,10,7292.67,1241.52,Male
+391,02-06-2025,West,Office Supplies,Pen,13,18892.56,4921.33,Male
+392,03-07-2025,North,Electronics,Phone,11,11041.22,1103.03,Male
+393,19-09-2025,North,Office Supplies,Marker,13,6639.92,1918.07,Male
+394,18-04-2024,North,Electronics,Tablet,4,3103.2,638.14,Male
+395,17-08-2025,South,Furniture,Cabinet,7,4937.33,1253.42,Male
+396,08-12-2025,South,Furniture,Chair,8,1397.86,244.34,Male
+397,28-03-2024,North,Office Supplies,Notebook,6,2889.59,539.2,Male
+398,30-07-2024,West,Furniture,Table,2,1336.97,346.31,Male
+399,22-11-2024,North,Furniture,Chair,13,13935.39,791.19,Male
+400,17-12-2024,North,Office Supplies,Notebook,15,22142.59,2727.39,Male
+401,27-06-2024,South,Furniture,Table,8,2905.17,498.28,Male
+402,07-07-2024,South,Office Supplies,Marker,7,442.43,103.63,Male
+403,21-07-2024,West,Office Supplies,Marker,7,186.1,21.3,Male
+404,12-10-2024,North,Office Supplies,Pen,13,17036.88,1807.41,Male
+405,29-11-2024,South,Furniture,Chair,5,5063.19,996.66,Male
+406,16-10-2025,East,Office Supplies,Marker,10,6009.65,506.43,Male
+407,26-12-2024,West,Office Supplies,Notebook,14,14236.76,4131.28,Male
+408,21-09-2025,North,Office Supplies,Notebook,6,1166.61,165.21,Male
+409,06-07-2024,East,Office Supplies,Notebook,9,5354.33,1225.75,Male
+410,11-08-2025,West,Furniture,Desk,8,7684.34,1982.79,Male
+411,22-10-2025,South,Office Supplies,Notebook,8,3579.8,379.92,Male
+412,06-04-2025,North,Furniture,Chair,8,1776.57,523.31,Male
+413,29-07-2025,West,Furniture,Table,7,7497.07,1373.13,Male
+414,20-06-2024,North,Office Supplies,Pen,13,14902.73,2051.02,Male
+415,08-10-2024,South,Office Supplies,Paper,3,3526.49,774.75,Male
+416,22-05-2025,North,Office Supplies,Pen,5,5835.84,1733.16,Male
+417,10-01-2025,North,Office Supplies,Marker,9,3090.98,548.79,Male
+418,31-10-2025,South,Furniture,Chair,8,3271.73,1009.85,Male
+419,30-03-2024,West,Electronics,Phone,4,4879.36,1104.58,Male
+420,25-12-2024,West,Electronics,Phone,13,4235.36,474.71,
+421,01-03-2024,East,Office Supplies,Paper,10,8173.77,1202.33,
+422,21-12-2025,East,Furniture,Cabinet,14,10938.68,3500.89,
+423,07-04-2024,South,Furniture,Chair,5,6516.15,573.85,
+424,15-05-2024,South,Electronics,Tablet,14,5409.33,1639.39,
+425,06-02-2025,West,Electronics,Tablet,11,6963.58,1292.42,
+426,10-10-2025,North,Furniture,Cabinet,12,16869.33,2711.26,
+427,14-05-2025,East,Office Supplies,Pen,14,16320.08,4403.44,
+428,14-04-2025,East,Electronics,Monitor,4,5811.32,1728.6,
+429,21-05-2025,East,Furniture,Cabinet,6,4980.12,444.12,Female
+430,11-05-2025,East,Office Supplies,Pen,1,167.37,47.73,Male
+431,15-04-2025,North,Electronics,Phone,8,5565.17,1934.18,Female
+432,14-03-2025,South,Office Supplies,Notebook,15,14729.94,1439.02,Male
+433,07-10-2024,North,Office Supplies,Paper,5,709.91,177.02,Female
+434,26-10-2025,South,Electronics,Monitor,11,5193.69,1349.49,Male
+435,27-08-2024,West,Office Supplies,Pen,12,1930.46,220.12,Female
+436,20-03-2024,South,Office Supplies,Notebook,9,9237.37,487.6,Male
+437,13-12-2025,East,Electronics,Monitor,12,2587.43,184.35,Female
+438,27-01-2025,North,Office Supplies,Pen,2,967.52,304.09,Male
+439,20-05-2024,West,Electronics,Phone,2,1610.3,84.61,Female
+440,27-10-2025,South,Furniture,Cabinet,12,4023.86,1104.47,Male
+441,25-02-2025,West,Electronics,Laptop,15,2530.33,697.7,Male
+442,26-08-2025,West,Furniture,Table,6,7144.76,888.35,Male
+443,22-10-2025,North,Electronics,Tablet,13,18370.21,1066.34,Male
+444,05-11-2025,East,Electronics,Phone,12,7197.5,1755.12,Male
+445,02-09-2024,West,Furniture,Chair,4,3037.53,693.1,Male
+446,24-06-2025,North,Furniture,Cabinet,3,1777.56,536.28,Male
+447,06-03-2025,East,Office Supplies,Notebook,13,9322.32,3227.48,Male
+448,15-03-2024,North,Office Supplies,Pen,1,408.03,25.28,Male
+449,02-03-2024,West,Office Supplies,Paper,11,11821.6,3311.62,Male
+450,09-03-2025,West,Electronics,Phone,5,718.62,52.97,Male
+451,27-07-2024,South,Office Supplies,Paper,7,6215.49,1733.92,Male
+452,27-10-2025,North,Furniture,Table,12,17172.88,2088.07,Male
+453,07-09-2024,North,Furniture,Chair,8,7409.59,492.8,Male
+454,13-11-2025,South,Electronics,Laptop,12,2676.88,142.96,Male
+455,23-05-2025,East,Office Supplies,Paper,3,1711.1,470.44,Male
+456,02-10-2024,North,Electronics,Tablet,13,8520.2,1765.01,Male
+457,26-09-2024,North,Furniture,Table,9,4976.85,994.79,Male
+458,03-08-2025,South,Furniture,Desk,5,5822.63,1853.23,Male
+459,21-11-2025,North,Electronics,Laptop,1,1290.86,69.3,Male
+460,17-02-2024,West,Furniture,Table,15,3631.88,1196.15,Male
+461,06-02-2024,West,Electronics,Tablet,4,2544.24,676.99,Male
+462,04-10-2024,North,Office Supplies,Paper,2,1526.04,489.22,Male
+463,02-07-2024,South,Office Supplies,Pen,7,854.08,161.87,Male
+464,16-10-2024,East,Furniture,Chair,9,6263.86,1006.45,Male
+465,25-10-2024,East,Office Supplies,Notebook,8,4520.36,1543.96,Male
+466,19-07-2024,South,Electronics,Laptop,15,9402.8,1127.39,Male
+467,20-12-2024,North,Furniture,Chair,13,12906.53,3932.64,Male
+468,10-11-2024,North,Electronics,Phone,7,5237.42,355.98,Male
+469,25-05-2024,East,Electronics,Laptop,15,5438.69,1651.47,Male
+470,26-02-2025,East,Furniture,Chair,10,1614.54,145.4,Male
+471,07-02-2025,North,Office Supplies,Pen,7,7002.92,624.75,Male
+472,25-10-2024,East,Furniture,Table,12,15014.54,2220.28,Male
+473,08-04-2025,East,Electronics,Laptop,4,885.78,248.94,Male
+474,21-04-2024,South,Electronics,Phone,8,5678.09,976.37,Male
+475,02-07-2025,East,Electronics,Monitor,5,3528.76,1078.9,Male
+476,02-04-2024,South,Office Supplies,Paper,14,14881.48,3437.48,Male
+477,08-08-2024,East,Electronics,Laptop,12,4648.37,728.51,Male
+478,09-06-2025,North,Office Supplies,Paper,5,6168.66,630.19,Male
+479,18-02-2025,West,Office Supplies,Notebook,2,1407.65,409.86,Male
+480,23-05-2024,North,Electronics,Laptop,14,16461.49,1920.83,Male
+481,21-07-2024,West,Furniture,Chair,10,8874.56,2886.26,Male
+482,17-03-2024,North,Electronics,Phone,15,14640.91,4286.71,Male
+483,04-04-2024,East,Electronics,Laptop,8,759.55,248.55,Male
+484,19-03-2025,West,Furniture,Chair,7,7218.09,735.11,Male
+485,07-08-2024,South,Furniture,Cabinet,8,10619.74,641.38,Male
+486,26-09-2025,South,Office Supplies,Paper,8,5037.99,1084.21,Male
+487,03-03-2024,North,Furniture,Table,3,1921.4,466.51,Male
+488,22-06-2025,South,Office Supplies,Pen,7,8240.65,1299.83,Male
+489,11-07-2025,West,Furniture,Cabinet,7,2941.71,170.09,Male
+490,03-09-2025,South,Electronics,Tablet,1,1216.81,233.03,Male
+491,01-01-2025,South,Electronics,Laptop,4,3968.64,515.76,Male
+492,27-02-2024,South,Office Supplies,Marker,6,8424.63,2927.24,Male
+493,26-06-2024,South,Electronics,Tablet,13,14461.14,2279.58,Male
+494,28-08-2025,North,Office Supplies,Paper,10,8541.38,1869.99,Male
+495,11-07-2024,West,Office Supplies,Paper,3,2237.54,172.46,Male
+496,26-08-2024,South,Electronics,Monitor,1,510.97,119.69,Male
+497,13-05-2024,East,Office Supplies,Notebook,15,18113.82,5623.71,Male
+498,01-03-2024,North,Electronics,Phone,13,2394.11,497.71,Male
+499,08-01-2025,North,Furniture,Table,10,1695.28,238.24,Male
+500,19-05-2024,South,Office Supplies,Marker,13,12559.48,2463.67,Male
+501,20-11-2024,South,Office Supplies,Paper,4,4019.95,1183.22,Male
+502,22-01-2025,East,Office Supplies,Paper,3,849.02,42.91,Male
+503,19-12-2025,West,Office Supplies,Pen,3,2734.61,892.33,Male
+504,18-09-2025,South,Office Supplies,Pen,15,11315.31,1689.95,Male
+505,20-03-2024,South,Furniture,Cabinet,3,2884.67,977.68,Male
+506,26-12-2025,East,Furniture,Chair,5,1651.66,426.05,Male
+507,24-12-2024,East,Electronics,Laptop,1,591.19,159.49,Male
+508,19-06-2024,West,Furniture,Table,6,4968.69,399.62,Male
+509,05-05-2025,South,Electronics,Monitor,2,2405.62,144.39,Male
+510,21-01-2024,East,Furniture,Chair,2,1051.75,332.75,Male
+511,13-06-2024,North,Office Supplies,Pen,6,5394.99,1262.93,Male
+512,09-05-2025,North,Furniture,Desk,10,13368.35,1298.48,Male
+513,13-04-2024,East,Electronics,Phone,7,7362.96,1963.05,Male
+514,07-07-2025,East,Office Supplies,Paper,5,1857.86,120.56,Male
+515,08-08-2025,West,Electronics,Laptop,6,153.88,11.74,Male
+516,08-11-2025,West,Electronics,Laptop,1,326.29,78.79,Male
+517,24-03-2024,West,Electronics,Tablet,13,7907.27,1555.59,Male
+518,07-11-2025,East,Electronics,Monitor,3,1707.33,280.74,Male
+519,10-07-2024,West,Electronics,Tablet,8,5666.29,667.9,Male
+520,02-10-2024,North,Electronics,Laptop,2,2017.7,590.08,Male
+521,27-02-2025,South,Office Supplies,Pen,14,8300.84,1716.4,Male
+522,02-07-2025,West,Office Supplies,Notebook,8,3698.41,622.97,Male
+523,05-02-2024,South,Electronics,Monitor,3,4273.83,428.02,Male
+524,04-08-2024,South,Electronics,Laptop,7,951.9,242.68,Male
+525,25-07-2024,South,Office Supplies,Paper,6,8207.94,2661.44,Male
+526,09-03-2024,North,Furniture,Table,9,4524.01,601.06,Male
+527,14-04-2025,North,Office Supplies,Marker,2,1266.75,119.66,Male
+528,25-08-2025,North,Electronics,Laptop,13,5764.43,1214.51,Male
+529,18-12-2024,West,Furniture,Table,11,8125.32,1890.67,Male
+530,08-02-2024,South,Furniture,Table,3,2805.01,713.16,Male
+531,15-02-2025,North,Furniture,Cabinet,12,4459.41,1220.65,Male
+532,02-10-2024,East,Electronics,Tablet,14,16724.47,2396.36,Male
+533,18-05-2025,North,Electronics,Phone,5,7309.22,1337.1,Male
+534,24-11-2024,East,Office Supplies,Marker,10,9754.21,1037.66,Male
+535,04-08-2024,West,Office Supplies,Marker,13,10197.49,1653.76,Male
+536,27-02-2024,South,Electronics,Tablet,12,9240.68,838.08,Male
+537,20-06-2025,North,Electronics,Phone,15,18791.04,5657.85,Male
+538,12-09-2024,North,Furniture,Chair,15,8300.33,910.82,Male
+539,12-01-2025,West,Office Supplies,Marker,11,15247.64,3878.27,Male
+540,04-09-2024,East,Furniture,Table,3,4324.71,831.96,Male
+541,18-07-2025,East,Furniture,Desk,14,18813.87,5167.95,Male
+542,06-12-2025,North,Furniture,Chair,7,654.38,200.34,Male
+543,07-08-2024,South,Office Supplies,Notebook,11,3585.58,880.17,Male
+544,09-06-2025,North,Office Supplies,Pen,8,10952.34,2674.69,Male
+545,07-09-2025,North,Electronics,Tablet,10,12115.27,1715.98,Male
+546,27-12-2025,East,Furniture,Table,14,7505.25,942.66,Male
+547,22-04-2025,East,Office Supplies,Marker,10,1714.22,348.77,Male
+548,09-11-2025,East,Office Supplies,Paper,5,5164.66,1004.64,Male
+549,10-12-2024,East,Office Supplies,Paper,14,6017.06,1485.23,Male
+550,29-10-2025,East,Electronics,Phone,9,10376.12,3319.38,Male
+551,06-09-2025,West,Office Supplies,Paper,11,2498.05,143.98,Male
+552,24-05-2025,East,Furniture,Table,7,4162.53,252.23,Male
+553,26-12-2025,South,Furniture,Desk,11,8923.86,2547.49,Male
+554,18-11-2025,East,Office Supplies,Paper,14,3802.12,940.2,Male
+555,25-07-2025,South,Furniture,Chair,8,1674.86,213.7,Male
+556,26-07-2025,South,Office Supplies,Paper,11,1673.8,262.09,Male
+557,10-11-2024,West,Furniture,Cabinet,5,4433.22,838.45,Male
+558,30-04-2024,West,Electronics,Laptop,8,10690.8,2139.69,Male
+559,28-11-2025,West,Office Supplies,Paper,7,700.08,214.41,Female
+560,20-05-2024,South,Furniture,Table,10,13414.11,4641.21,Female
+561,26-05-2024,East,Office Supplies,Notebook,13,1814.81,271.84,Female
+562,30-06-2024,East,Office Supplies,Pen,1,689.04,77.73,Female
+563,21-06-2024,South,Furniture,Chair,3,2788.29,669.32,Female
+564,17-02-2025,West,Furniture,Table,1,75.83,8.33,Female
+565,17-01-2025,North,Furniture,Desk,1,1021.59,243.14,Female
+566,11-09-2024,South,Office Supplies,Paper,5,1054.09,173.99,Female
+567,25-08-2025,East,Electronics,Laptop,14,1227.28,410.57,Female
+568,11-04-2025,East,Furniture,Desk,6,8965.71,1766.73,Female
+569,11-07-2024,South,Furniture,Chair,4,1407.98,486.41,Female
+570,04-08-2024,North,Office Supplies,Notebook,2,1125.11,275.83,Female
+571,08-02-2024,West,Office Supplies,Paper,13,10548.27,681.17,Female
+572,19-02-2024,North,Office Supplies,Pen,1,1040.83,182.18,Female
+573,24-01-2025,North,Office Supplies,Paper,8,8470.12,945.68,Female
+574,03-12-2025,North,Furniture,Table,11,1863.95,384.15,Female
+575,29-09-2025,South,Furniture,Chair,9,9753.97,832.21,Female
+576,26-04-2024,North,Furniture,Desk,10,3156.29,406.84,Female
+577,19-06-2025,South,Furniture,Table,5,1286.76,275.93,Female
+578,31-07-2024,West,Furniture,Desk,1,38.87,2.98,Female
+579,23-04-2024,West,Electronics,Laptop,13,10105.21,2698.79,Female
+580,13-04-2024,East,Office Supplies,Notebook,8,11865.8,1647.05,Female
+581,20-04-2025,North,Electronics,Phone,14,1097.29,150.52,Female
+582,24-11-2025,East,Furniture,Chair,2,2559.69,811.65,Female
+583,10-01-2024,South,Office Supplies,Notebook,6,3294.84,597.4,Female
+584,28-09-2025,East,Office Supplies,Pen,6,7356.88,771.45,Female
+585,14-02-2025,West,Furniture,Cabinet,14,8272.02,2524.63,Female
+586,07-03-2025,South,Electronics,Phone,12,13141.06,4526.71,Female
+587,12-06-2024,North,Furniture,Table,13,11206.47,2033.4,Female
+588,17-09-2025,West,Furniture,Chair,14,14462.1,4361.2,Female
+589,13-05-2024,West,Furniture,Chair,15,9430.51,601.59,Female
+590,24-09-2024,East,Electronics,Phone,11,14434.78,2969.67,Female
+591,05-12-2025,North,Furniture,Desk,8,4253.67,1075.7,Female
+592,29-01-2025,South,Office Supplies,Pen,1,972.23,94.38,Female
+593,25-04-2025,West,Electronics,Laptop,13,9719.31,1188.36,Female
+594,11-10-2024,North,Office Supplies,Notebook,9,8748.99,1495.93,Female
+595,28-08-2024,North,Furniture,Table,13,11285.19,862.26,Female
+596,25-05-2025,West,Furniture,Chair,8,8983.63,497.07,Female
+597,17-02-2025,West,Electronics,Laptop,14,2163.36,500.3,Female
+598,25-09-2025,East,Office Supplies,Notebook,11,11151.6,3736.97,Female
+599,07-01-2025,North,Electronics,Monitor,6,5094.14,1201.85,Female
+600,29-04-2025,East,Office Supplies,Marker,2,328.41,81.34,Female
+601,03-01-2024,East,Furniture,Cabinet,9,7132.84,1859.02,Female
+602,16-02-2024,South,Furniture,Desk,14,15133.26,4032.53,Female
+603,19-04-2024,East,Office Supplies,Notebook,4,794.82,242.94,Female
+604,08-08-2024,West,Electronics,Tablet,2,2281.16,145.88,Female
+605,10-10-2025,North,Furniture,Table,11,9814.07,1975.17,Female
+606,25-05-2025,North,Office Supplies,Pen,9,12638.31,3812.28,Female
+607,09-05-2025,South,Office Supplies,Notebook,12,14718.74,1193.19,Female
+608,04-11-2025,East,Office Supplies,Marker,7,10287.63,3341.15,Female
+609,11-09-2024,East,Furniture,Cabinet,5,3451.06,310.64,Female
+610,26-02-2025,East,Office Supplies,Paper,12,13325.9,2879.39,Female
+611,10-08-2024,South,Electronics,Tablet,11,5841.38,1470.35,Female
+612,28-12-2025,South,Office Supplies,Paper,12,2289.6,356.43,Female
+613,06-05-2025,West,Office Supplies,Paper,15,19110.08,5589.53,Female
+614,19-06-2025,North,Electronics,Monitor,3,295.61,19.8,Female
+615,30-09-2024,South,Furniture,Cabinet,3,3786.86,973.9,Female
+616,29-10-2024,South,Office Supplies,Pen,6,7348.55,593.35,Female
+617,22-11-2025,South,Office Supplies,Marker,4,3104.66,897.4,Female
+618,13-12-2025,East,Office Supplies,Pen,15,8771.13,1534.68,Female
+619,02-12-2025,East,Office Supplies,Pen,1,1120.63,124.31,Female
+620,29-03-2025,South,Office Supplies,Paper,13,11580.53,3144.52,Female
+621,20-07-2024,South,Furniture,Table,3,4426.53,320.22,Female
+622,26-06-2024,North,Furniture,Chair,7,3031.6,391.9,Female
+623,13-06-2024,East,Electronics,Tablet,8,8562.72,825.8,Female
+624,06-06-2024,East,Office Supplies,Pen,13,18199.03,4271,Female
+625,08-11-2025,East,Furniture,Cabinet,2,2360.73,343.15,Female
+626,13-08-2024,South,Office Supplies,Pen,13,9978.9,1744.11,Female
+627,03-07-2025,West,Electronics,Tablet,4,5309.71,1322.12,Female
+628,05-12-2024,East,Furniture,Desk,13,12155.72,2339.46,Female
+629,28-07-2025,North,Electronics,Tablet,8,3005.72,729.43,Female
+630,28-09-2025,South,Electronics,Tablet,7,9629.06,3211.26,Female
+631,30-01-2025,East,Office Supplies,Paper,1,1368.78,406.02,Female
+632,18-01-2025,West,Furniture,Chair,5,6747.28,727.04,Female
+633,10-06-2025,North,Electronics,Phone,13,10610.64,553.87,Female
+634,08-03-2024,South,Office Supplies,Notebook,14,14481.6,4354.61,Female
+635,29-07-2024,West,Office Supplies,Pen,12,12424.13,709.74,Female
+636,05-12-2024,North,Electronics,Laptop,1,283.43,35.59,Female
+637,13-03-2024,South,Furniture,Table,7,4813.66,824.75,Female
+638,19-11-2024,North,Furniture,Chair,9,258.57,68.8,Female
+639,05-03-2024,North,Office Supplies,Pen,6,8361.06,684.27,Female
+640,03-12-2025,East,Office Supplies,Pen,5,5763.03,1044.85,Female
+641,08-02-2025,North,Furniture,Desk,9,3108.61,851.84,Female
+642,12-07-2025,East,Office Supplies,Notebook,5,5111.94,1657.55,Female
+643,25-10-2025,East,Electronics,Phone,2,163.65,36.3,Female
+644,07-02-2025,North,Furniture,Desk,12,13407.81,3590.36,Female
+645,04-08-2024,West,Office Supplies,Notebook,3,876.93,206.14,Female
+646,15-09-2024,South,Electronics,Phone,11,13238.47,4046.67,Female
+647,16-07-2025,West,Office Supplies,Pen,5,5070.47,634.85,Female
+648,21-07-2024,West,Furniture,Cabinet,3,3040.55,365.96,Female
+649,18-10-2024,North,Electronics,Tablet,8,5495.65,1290.94,Female
+650,09-11-2024,South,Office Supplies,Paper,13,6346.25,1132.76,Female
+651,05-01-2024,East,Electronics,Phone,12,13379.14,2419.45,Female
+652,03-01-2025,South,Office Supplies,Paper,15,10954.98,2011.42,Female
+653,08-11-2024,West,Office Supplies,Pen,3,2926.25,218.28,Female
+654,14-10-2024,South,Office Supplies,Notebook,5,5528.23,1315.64,Female
+655,18-03-2024,North,Office Supplies,Pen,14,12336.77,2116.25,Female
+656,27-08-2025,South,Electronics,Tablet,9,12087.89,2561.46,Female
+657,31-10-2025,South,Furniture,Table,4,5357.31,1215.47,Female
+658,24-10-2024,South,Furniture,Chair,7,3909.65,207.91,Female
+659,01-09-2024,South,Office Supplies,Notebook,8,2045.19,449.75,Female
+660,02-08-2025,South,Office Supplies,Marker,6,478.93,133.35,Female
+661,25-08-2024,North,Furniture,Cabinet,4,333.43,37.35,Female
+662,04-01-2025,West,Furniture,Table,15,1330.91,458.07,Female
+663,27-11-2024,North,Office Supplies,Paper,14,15652.37,3499.7,Female
+664,06-08-2025,South,Furniture,Table,6,5338.59,1705.51,Female
+665,20-03-2024,East,Furniture,Desk,9,5585.82,1648.77,Female
+666,19-12-2024,West,Furniture,Chair,9,11928.7,2170.66,Female
+667,23-08-2024,North,Office Supplies,Paper,4,969.42,94.23,Female
+668,08-09-2025,North,Office Supplies,Notebook,7,8543.75,2273.29,Female
+669,08-05-2025,West,Furniture,Desk,10,2586.44,775.96,Female
+670,23-01-2024,South,Electronics,Phone,10,8966.75,810.75,Female
+671,08-06-2025,North,Office Supplies,Notebook,1,266.19,86.97,Female
+672,13-06-2025,West,Office Supplies,Pen,15,16273.95,4044.46,Female
+673,17-10-2024,North,Electronics,Monitor,10,14893.08,4619.7,Female
+674,23-06-2024,South,Furniture,Desk,13,11470.11,3214.46,Female
+675,30-09-2025,East,Electronics,Tablet,15,10367.04,2355.17,Female
+676,23-08-2024,West,Furniture,Desk,2,89.03,18.41,Female
+677,31-05-2025,West,Electronics,Laptop,3,2172.86,509.37,Female
+678,09-02-2024,North,Electronics,Monitor,11,2341.75,541.04,Female
+679,02-01-2024,West,Office Supplies,Marker,6,7888.44,2045.42,Female
+680,15-03-2025,South,Furniture,Table,6,5350.75,1457.64,Female
+681,14-12-2025,North,Furniture,Desk,5,3630.85,434.81,Female
+682,26-03-2024,East,Office Supplies,Marker,5,1498.76,393.79,Female
+683,08-01-2024,North,Office Supplies,Pen,7,6921.1,1774.09,Female
+684,19-11-2024,West,Furniture,Chair,3,1951.76,440.34,Female
+685,24-09-2024,West,Office Supplies,Paper,10,4278.3,1087.47,Female
+686,27-07-2024,West,Office Supplies,Marker,3,1703.75,368.82,Female
+687,16-09-2024,East,Office Supplies,Paper,13,13833.72,3745.27,Female
+688,06-11-2025,North,Office Supplies,Notebook,8,9432.01,3157.59,Female
+689,12-04-2024,South,Office Supplies,Marker,13,6771.54,1457.05,Female
+690,14-12-2025,North,Electronics,Monitor,11,306.13,23.67,Female
+691,28-05-2024,West,Office Supplies,Marker,2,229.68,26.76,Female
+692,22-03-2024,North,Office Supplies,Marker,15,22154.75,5188.41,Female
+693,17-06-2025,East,Office Supplies,Pen,13,16041.2,3883.37,Female
+694,25-03-2025,North,Electronics,Tablet,4,278.97,64.12,Female
+695,12-06-2025,South,Office Supplies,Notebook,11,807.08,98.28,Female
+696,01-01-2024,South,Electronics,Tablet,13,7945.1,1993.41,Female
+697,19-02-2025,South,Office Supplies,Pen,12,12736.33,4148.9,Female
+698,16-07-2025,East,Office Supplies,Paper,6,8673.99,1153.23,Female
+699,12-09-2025,South,Furniture,Table,10,268.84,27.56,Female
+700,02-06-2025,North,Office Supplies,Pen,9,4099.43,1369.64,Female
+701,09-06-2025,East,Office Supplies,Paper,12,8103.57,1321.89,Female
+702,10-05-2025,South,Furniture,Table,11,7720.53,1745.21,Female
+703,29-01-2024,West,Electronics,Tablet,2,1172.71,336.09,Female
+704,13-08-2024,South,Furniture,Table,6,4706.56,249.06,Female
+705,26-09-2024,South,Furniture,Chair,7,7119.51,2109.67,Female
+706,18-03-2024,South,Furniture,Cabinet,6,2060.87,457.75,Female
+707,06-07-2024,South,Furniture,Desk,4,4433.74,1382.54,Female
+708,30-07-2024,South,Electronics,Phone,14,13097.33,1267.8,Female
+709,19-04-2024,North,Electronics,Monitor,10,298.03,91.53,Female
+710,13-02-2024,West,Furniture,Cabinet,8,10793.76,3392.44,Female
+711,11-08-2025,East,Furniture,Desk,13,17883.97,2397.88,Female
+712,15-08-2024,South,Electronics,Monitor,8,11285.51,674.52,Female
+713,21-12-2024,West,Office Supplies,Notebook,8,11721.85,3041.51,Female
+714,16-04-2025,East,Office Supplies,Pen,1,1017.67,166.72,Female
+715,13-04-2024,East,Furniture,Cabinet,3,2495.62,302.32,Female
+716,27-04-2025,East,Furniture,Desk,8,5179.48,910.18,Female
+717,16-01-2025,East,Furniture,Cabinet,8,2289.89,204.58,Female
+718,12-08-2025,South,Electronics,Tablet,13,4796.89,861.84,Female
+719,25-01-2025,South,Electronics,Phone,8,9699.11,998.84,Female
+720,26-05-2025,South,Office Supplies,Paper,13,9622.57,1205.63,Female
+721,04-08-2025,North,Furniture,Chair,12,3140.95,360.08,Female
+722,17-09-2024,West,Office Supplies,Pen,8,8975.98,1148.3,Female
+723,03-01-2025,East,Furniture,Chair,7,1396.02,433.06,Female
+724,12-09-2025,South,Office Supplies,Notebook,13,5735.87,846.2,Female
+725,06-06-2025,West,Office Supplies,Marker,15,2040.65,477.71,Female
+726,19-04-2025,South,Electronics,Tablet,7,6679.99,1479.56,Female
+727,14-03-2024,North,Electronics,Tablet,4,1935.81,476.02,Female
+728,28-12-2025,East,Office Supplies,Marker,5,6668.92,1895.92,Female
+729,06-01-2025,West,Furniture,Desk,3,3852.7,337.16,Female
+730,28-08-2024,East,Office Supplies,Pen,4,1068.11,86.41,Female
+731,06-03-2024,West,Office Supplies,Pen,1,1160.98,240.55,Female
+732,26-03-2024,North,Furniture,Desk,2,1978.3,624.43,Female
+733,12-11-2024,South,Electronics,Tablet,8,7577.53,677.3,Female
+734,23-06-2024,North,Electronics,Tablet,14,19244.44,5951.77,Female
+735,23-04-2025,East,Office Supplies,Marker,3,4364.77,1131.73,Female
+736,30-06-2024,West,Office Supplies,Marker,9,8701.96,1828.59,Female
+737,21-12-2024,West,Office Supplies,Notebook,13,1983.02,282.3,Female
+738,26-02-2025,East,Electronics,Tablet,1,20.14,5.93,Female
+739,19-05-2024,East,Furniture,Table,9,290.78,94.98,Female
+740,03-05-2025,East,Electronics,Monitor,13,5895.83,703.75,Female
+741,08-01-2024,East,Electronics,Monitor,15,12744.31,2146.47,Female
+742,16-06-2024,West,Furniture,Desk,5,686.15,163.03,Female
+743,13-06-2025,East,Furniture,Cabinet,7,2087.69,147.26,Female
+744,19-05-2024,East,Electronics,Monitor,10,6900.96,1795.23,Female
+745,18-05-2025,South,Furniture,Chair,3,280.37,59.02,Female
+746,09-07-2024,North,Furniture,Cabinet,3,3235.47,867.53,Female
+747,26-08-2024,North,Electronics,Laptop,8,2731.51,480.94,Female
+748,25-05-2025,East,Furniture,Chair,6,832.38,229.05,Female
+749,29-05-2024,North,Furniture,Table,2,1647.85,172.17,Female
+750,13-09-2024,West,Electronics,Laptop,13,14010.49,2317.89,Female
+751,29-03-2025,South,Office Supplies,Pen,4,2808.14,789.93,Female
+752,17-06-2025,South,Furniture,Table,11,15868.56,5250.34,Female
+753,11-06-2024,North,Office Supplies,Pen,5,3661.1,511.25,Female
+754,04-01-2025,North,Office Supplies,Notebook,2,738.46,133.11,Female
+755,16-01-2024,South,Furniture,Chair,7,8315.53,438.05,Female
+756,13-02-2024,West,Office Supplies,Notebook,6,6964.68,867.92,Female
+757,26-05-2025,North,Office Supplies,Paper,15,21826.27,6064.82,Female
+758,02-03-2024,North,Furniture,Desk,12,9765.64,802.91,Female
+759,14-05-2025,South,Furniture,Cabinet,13,17418.15,4702.15,Female
+760,22-01-2024,West,Furniture,Desk,5,6750.11,1320.26,Female
+761,24-03-2025,East,Office Supplies,Marker,4,3434.87,731.92,Female
+762,27-11-2024,West,Furniture,Desk,2,1612.17,297.95,Female
+763,26-09-2024,East,Furniture,Chair,13,12535.62,2052.24,Female
+764,08-07-2024,North,Office Supplies,Paper,13,12192.6,1782.66,Female
+765,05-03-2024,West,Electronics,Monitor,13,10870.24,2542.68,Female
+766,26-11-2024,West,Office Supplies,Paper,2,324.92,80.47,Female
+767,14-02-2024,South,Electronics,Laptop,4,713.77,76.72,Female
+768,02-02-2024,West,Office Supplies,Marker,9,8491.29,1928.29,Female
+769,20-02-2024,East,Electronics,Laptop,1,1396.71,157.3,Female
+770,18-05-2025,North,Furniture,Chair,6,5075.22,1682.3,Female
+771,01-03-2025,East,Office Supplies,Pen,14,13062.86,2726.3,Female
+772,13-03-2024,East,Electronics,Phone,9,1473.63,394.27,Female
+773,28-06-2025,West,Electronics,Phone,9,8929.6,1973.52,Female
+774,02-07-2024,West,Office Supplies,Pen,13,12547.13,1974.78,Female
+775,14-04-2025,West,Electronics,Phone,13,3730.83,635.98,Female
+776,11-12-2024,South,Office Supplies,Marker,15,8121.59,1173.95,Female
+777,28-11-2024,East,Furniture,Table,14,15319.98,3562.26,Female
+778,30-07-2025,South,Furniture,Cabinet,6,8659.47,1595.51,Female
+779,10-02-2025,North,Office Supplies,Pen,5,4508.64,925.55,Female
+780,05-11-2024,North,Furniture,Desk,4,5145.86,290.79,Female
+781,07-12-2025,East,Office Supplies,Notebook,2,151.7,23.77,Female
+782,21-05-2024,East,Furniture,Desk,4,1596.96,223.72,Female
+783,07-08-2025,West,Office Supplies,Notebook,12,1611.1,237.49,Female
+784,09-05-2025,South,Furniture,Chair,10,9705.37,594.08,Female
+785,13-08-2025,West,Electronics,Laptop,15,17414.01,2688.36,Female
+786,20-03-2025,West,Electronics,Phone,12,11833.36,2729.84,Female
+787,12-01-2024,West,Electronics,Tablet,9,728.55,154.44,Female
+788,02-06-2024,East,Office Supplies,Notebook,3,284.31,76.61,Female
+789,06-02-2025,West,Office Supplies,Pen,4,2637.06,753.96,Female
+790,31-05-2024,South,Furniture,Chair,8,6925.86,448.75,Female
+791,12-02-2025,East,Electronics,Monitor,9,5967.42,1547.72,Female
+792,18-05-2024,West,Office Supplies,Notebook,8,4840.57,1071.7,Female
+793,28-07-2025,South,Electronics,Laptop,5,5848.11,859.81,Female
+794,12-08-2025,North,Electronics,Monitor,7,3924.17,420.46,Female
+795,18-12-2024,North,Furniture,Desk,6,5592.04,1940.7,Female
+796,28-03-2025,South,Furniture,Chair,15,18463.42,2029.23,Female
+797,17-01-2025,South,Office Supplies,Pen,2,2229.16,274,Female
+798,27-09-2025,South,Furniture,Chair,6,6280.9,523.72,Female
+799,05-04-2025,West,Electronics,Tablet,4,4460.88,506.59,Female
+800,13-07-2025,East,Office Supplies,Marker,10,11002.87,1016.71,Female
+801,16-12-2025,North,Furniture,Chair,5,1360.37,183.93,Female
+802,14-12-2025,East,Electronics,Monitor,11,15607.47,1092.2,Female
+803,07-11-2025,East,Office Supplies,Paper,14,2515.51,346.51,Female
+804,26-10-2025,West,Electronics,Monitor,9,13188.47,1053.51,Female
+805,19-11-2024,West,Office Supplies,Pen,3,943.01,320.66,Female
+806,28-07-2025,North,Electronics,Phone,15,12053.02,1808.81,Female
+807,06-02-2025,South,Electronics,Tablet,11,5949.14,1413.33,Female
+808,29-08-2024,East,Electronics,Tablet,15,8895.19,3113.19,Female
+809,31-01-2024,East,Electronics,Phone,6,8086.92,1998.11,Female
+810,30-03-2024,West,Office Supplies,Notebook,7,2630.14,252.03,Female
+811,15-11-2024,East,Furniture,Desk,4,3942.64,884.37,Female
+812,01-12-2025,South,Electronics,Tablet,12,12763.22,2643.79,Female
+813,18-05-2024,West,Electronics,Phone,6,722.19,151.58,Female
+814,01-05-2024,South,Furniture,Desk,12,763.62,111.19,Female
+815,27-02-2025,West,Furniture,Table,12,16823.73,5353.97,Female
+816,07-10-2024,South,Electronics,Laptop,3,880.27,245.36,Female
+817,18-09-2025,East,Office Supplies,Notebook,10,3636.3,931.67,Female
+818,02-01-2025,North,Office Supplies,Marker,3,2290.32,530.01,Female
+819,30-12-2025,East,Electronics,Monitor,8,5770.35,572.05,Female
+820,19-08-2024,North,Furniture,Chair,15,6290.86,1094.06,Female
+821,18-11-2025,South,Electronics,Laptop,3,4176.34,1443.71,Female
+822,23-09-2025,West,Office Supplies,Paper,14,9760.33,1210.62,Female
+823,18-02-2025,North,Office Supplies,Marker,12,5797.06,1353.33,Female
+824,08-08-2025,North,Office Supplies,Pen,8,5569.7,1745.15,Female
+825,08-09-2024,West,Office Supplies,Pen,9,5340.14,1492.83,Female
+826,20-02-2024,South,Furniture,Table,7,9302.36,2624.22,Female
+827,19-10-2024,West,Electronics,Monitor,5,4637.19,307.74,Female
+828,13-06-2025,South,Furniture,Table,2,2179.03,182.93,Female
+829,22-08-2025,South,Furniture,Table,6,4123.87,427.5,Female
+830,27-08-2025,South,Furniture,Chair,5,2498.15,610.98,Female
+831,29-12-2025,South,Office Supplies,Pen,2,377.93,69.85,Female
+832,06-01-2025,North,Office Supplies,Marker,12,14289.34,2907.88,Female
+833,12-06-2024,West,Office Supplies,Marker,1,1157.03,374.5,Female
+834,02-08-2025,South,Electronics,Phone,3,3475.06,227.25,Female
+835,11-11-2024,East,Office Supplies,Marker,5,4735.75,403.8,Female
+836,14-05-2024,South,Electronics,Tablet,1,698.79,214.27,Female
+837,10-07-2025,North,Office Supplies,Marker,4,1363.89,338.03,Female
+838,09-04-2025,West,Furniture,Chair,10,9081.51,1120.79,Female
+839,14-07-2025,East,Office Supplies,Notebook,1,293.56,19.53,Female
+840,23-12-2024,North,Electronics,Laptop,11,9631.35,2224.7,Female
+841,05-12-2024,North,Electronics,Laptop,7,10435.1,1026.82,Female
+842,18-10-2024,South,Furniture,Cabinet,15,1095.65,307.39,Female
+843,26-11-2024,East,Furniture,Chair,13,8481.71,1824.77,Female
+844,26-10-2024,West,Electronics,Laptop,12,15503.09,2306.28,Female
+845,27-02-2025,South,Office Supplies,Notebook,10,1061.13,234.94,Female
+846,06-10-2025,North,Furniture,Cabinet,7,6447.63,934.56,Female
+847,22-06-2025,East,Electronics,Monitor,9,9892.74,1971.84,Female
+848,03-07-2024,South,Office Supplies,Paper,4,89.36,5.11,Female
+849,02-10-2025,North,Office Supplies,Notebook,13,12098.53,2109.86,Female
+850,16-02-2024,East,Furniture,Desk,1,968.12,248.81,Female
+851,17-09-2024,North,Furniture,Cabinet,9,7505.91,2102.48,Female
+852,26-04-2024,East,Furniture,Table,12,10344.05,3496.64,Female
+853,28-06-2024,South,Furniture,Cabinet,15,15228.9,4947.09,Female
+854,06-02-2024,South,Furniture,Desk,11,7718.86,2389.51,
+855,09-12-2024,West,Furniture,Chair,14,11076.64,2431.13,
+856,25-11-2025,East,Office Supplies,Pen,4,3498.19,523.03,
+857,28-12-2024,North,Electronics,Tablet,14,925.91,319.52,
+858,03-10-2025,South,Office Supplies,Marker,3,2702.65,836.14,
+859,11-11-2024,East,Office Supplies,Pen,5,3162.63,629.73,
+860,31-08-2024,East,Furniture,Cabinet,4,3188.59,326.84,
+861,18-01-2025,North,Electronics,Laptop,8,6150.98,1781.99,
+862,27-05-2025,South,Electronics,Tablet,15,11033.08,3444.13,
+863,13-11-2024,East,Electronics,Laptop,14,20632.71,4226.49,
+864,15-05-2024,South,Office Supplies,Pen,8,4749.04,1469.56,
+865,28-04-2024,North,Furniture,Chair,11,14027.46,4370.43,
+866,07-12-2024,West,Electronics,Laptop,9,10385.52,2842.17,
+867,24-01-2024,East,Office Supplies,Notebook,6,1900.93,258.47,
+868,29-06-2025,East,Furniture,Chair,5,1204.97,159.17,
+869,16-01-2024,North,Electronics,Tablet,9,4422.22,408.91,
+870,22-12-2025,East,Office Supplies,Notebook,3,376.32,88.05,Male
+871,12-12-2024,West,Electronics,Phone,1,716.69,181.07,Female
+872,18-04-2024,West,Electronics,Laptop,7,4200.26,1097.96,Male
+873,29-08-2025,West,Office Supplies,Paper,5,2559.26,280.1,Male
+874,17-11-2025,North,Furniture,Desk,2,2446.04,797.18,Female
+875,24-04-2025,North,Furniture,Cabinet,11,10711.13,2998.56,Female
+876,26-04-2025,South,Electronics,Phone,14,18838.92,2400.38,Male
+877,07-01-2025,West,Electronics,Tablet,13,16821.63,2479.98,Female
+878,14-05-2025,North,Electronics,Monitor,2,1080.26,203.49,Male
+879,23-06-2024,East,Furniture,Desk,9,1551.06,457.98,Female
+880,19-04-2024,East,Office Supplies,Pen,13,6072.75,1143.45,Male
+881,27-08-2025,West,Electronics,Phone,9,2298.15,447.48,Female
+882,08-03-2024,East,Electronics,Monitor,13,19119.15,4209.34,Male
+883,16-12-2024,South,Electronics,Laptop,12,16772.13,3727.71,Female
+884,13-05-2025,North,Office Supplies,Marker,6,5049.18,1497.62,Male
+885,29-06-2024,East,Furniture,Chair,10,1809.42,532.37,Female
+886,23-01-2025,East,Furniture,Chair,2,684.13,62.72,Male
+887,17-08-2025,North,Electronics,Phone,8,6450.07,1077.13,Female
+888,14-08-2025,West,Electronics,Phone,11,14504.48,2029.48,Male
+889,26-11-2025,East,Furniture,Cabinet,2,1764.87,412,Female
+890,06-06-2025,West,Electronics,Tablet,1,566.45,121.6,Male
+891,24-02-2024,North,Office Supplies,Paper,2,2589.29,801.91,Female
+892,28-08-2024,West,Office Supplies,Marker,11,5399.11,889.97,Male
+893,25-01-2025,West,Office Supplies,Notebook,11,3043.12,279.12,Female
+894,22-07-2025,West,Furniture,Table,3,1340.81,418.09,Male
+895,08-05-2024,South,Electronics,Laptop,11,475.72,126.73,Female
+896,13-05-2025,West,Electronics,Laptop,3,2911.56,508.81,Male
+897,11-04-2025,West,Office Supplies,Notebook,8,6191.47,1334.97,Female
+898,05-04-2025,West,Furniture,Desk,3,1945.99,101.64,Male
+899,25-05-2025,South,Office Supplies,Paper,7,9739.21,2170.93,Female
+900,04-02-2024,North,Office Supplies,Marker,12,6785.96,1520.6,Male
+901,08-12-2025,North,Electronics,Tablet,8,6280.68,1300.14,Female
+902,16-09-2025,North,Electronics,Monitor,11,12294.65,4157.11,Male
+903,20-03-2024,East,Office Supplies,Pen,15,7926.72,2247.69,Female
+904,25-04-2025,West,Office Supplies,Marker,10,11060.46,1950.01,Male
+905,28-10-2024,East,Electronics,Laptop,12,16630.07,4570.4,Female
+906,31-07-2025,East,Electronics,Monitor,10,2702.37,176.97,Male
+907,25-10-2024,North,Furniture,Table,2,415.39,30.35,Female
+908,11-10-2024,East,Electronics,Tablet,5,6448.15,349.88,Male
+909,24-04-2024,South,Office Supplies,Notebook,11,7491.51,2190.16,Female
+910,24-09-2024,South,Furniture,Desk,13,10406.96,623.66,Male
+911,27-03-2024,South,Office Supplies,Notebook,14,10556.05,3674.3,Female
+912,27-01-2025,South,Office Supplies,Marker,12,11563.33,1309.63,Male
+913,19-12-2024,North,Office Supplies,Paper,13,16027.78,1053.94,Female
+914,20-04-2025,West,Furniture,Cabinet,8,8994.42,2480.02,Male
+915,29-06-2025,South,Furniture,Table,8,3269.48,683.75,Female
+916,21-03-2025,North,Furniture,Table,7,7169.19,2426.98,Male
+917,30-11-2025,North,Electronics,Tablet,14,9226.6,3002.45,Female
+918,06-10-2024,East,Furniture,Cabinet,13,2150.85,529.76,Male
+919,04-02-2025,West,Office Supplies,Notebook,12,12172.76,3422.36,Female
+920,16-06-2025,East,Office Supplies,Notebook,6,4982.8,1254.87,Male
+921,10-03-2024,North,Furniture,Chair,9,1564.05,287.45,Female
+922,12-08-2024,East,Furniture,Desk,1,55.08,4.27,Male
+923,31-08-2025,South,Office Supplies,Pen,12,17250.45,1309.58,Female
+924,11-09-2025,South,Furniture,Desk,15,2760.76,290.65,Male
+925,28-10-2024,West,Office Supplies,Pen,11,7602.06,2649.88,Female
+926,13-03-2025,East,Furniture,Desk,13,1683.7,476.71,Male
+927,26-01-2025,West,Furniture,Chair,5,7171.48,927.99,Female
+928,27-03-2025,North,Furniture,Desk,10,6010.99,1464.55,Male
+929,21-04-2024,South,Office Supplies,Marker,4,3714.68,304.14,Female
+930,28-03-2025,East,Electronics,Laptop,2,248.42,66.64,Male
+931,01-04-2025,North,Furniture,Desk,11,10644.66,3511.33,Female
+932,11-11-2025,West,Furniture,Desk,12,6097.8,1020.77,Male
+933,04-01-2024,West,Furniture,Table,7,8884.35,2525.65,Female
+934,12-03-2024,South,Electronics,Monitor,12,14767.27,2874,Male
+935,03-08-2025,East,Furniture,Cabinet,7,711.82,248.5,Female
+936,24-10-2025,North,Furniture,Cabinet,2,2529.9,703.66,Male
+937,23-10-2024,South,Electronics,Laptop,7,6985.21,975.56,Female
+938,03-02-2025,North,Office Supplies,Paper,8,1164.77,279.36,
+939,13-07-2024,South,Electronics,Phone,1,1085.21,247.3,
+940,15-05-2025,West,Electronics,Tablet,8,6481.85,1946.34,
+941,05-04-2025,North,Electronics,Tablet,1,519.82,138.43,
+942,19-02-2025,North,Electronics,Monitor,11,14386.86,3035.17,
+943,16-08-2025,South,Electronics,Laptop,12,2754.65,678.06,
+944,27-04-2025,North,Electronics,Phone,1,274.93,17.87,
+945,10-11-2024,North,Furniture,Desk,14,12526.4,3699.55,
+946,18-04-2024,North,Furniture,Desk,2,2421.18,430.64,
+947,25-11-2025,West,Furniture,Chair,11,9596.74,875.21,
+948,06-08-2024,North,Office Supplies,Notebook,6,681.41,90.06,
+949,01-03-2025,South,Office Supplies,Paper,9,2377.88,292.7,
+950,18-08-2025,North,Electronics,Laptop,13,16563.34,3871.39,
+951,10-06-2024,North,Furniture,Chair,1,30.69,10.06,
+952,24-12-2025,East,Furniture,Table,12,2493.61,231.72,
+953,04-10-2024,West,Furniture,Desk,3,2770.79,169.81,
+954,03-07-2024,West,Office Supplies,Pen,11,13675.15,1919.44,
+955,04-03-2025,North,Office Supplies,Notebook,4,775.65,162.16,
+956,07-04-2024,East,Office Supplies,Notebook,8,9280.72,2299.75,
+957,10-10-2024,North,Electronics,Laptop,13,3130.94,949.1,
+958,30-04-2025,West,Electronics,Phone,11,15241.12,1009.09,
+959,07-01-2025,East,Electronics,Monitor,5,2573.78,750.38,
+960,09-04-2025,North,Electronics,Laptop,15,12229.41,1191.31,
+961,30-01-2024,West,Office Supplies,Pen,2,2689.43,716.52,
+962,29-08-2025,East,Furniture,Desk,12,12260.9,1811,
+963,22-04-2024,East,Electronics,Laptop,4,4447.47,1383.01,
+964,19-01-2025,South,Electronics,Monitor,10,7369.23,2337.13,
+965,28-05-2024,South,Office Supplies,Marker,3,1779.75,161.82,
+966,17-07-2024,East,Furniture,Desk,6,1249.64,321.99,
+967,02-03-2024,East,Electronics,Laptop,14,9925.87,1741.66,
+968,17-12-2024,South,Furniture,Desk,13,15547.44,5221.27,
+969,23-06-2024,South,Electronics,Monitor,14,11091.05,3423.36,
+970,09-08-2024,West,Furniture,Cabinet,1,1100.43,298.06,
+971,09-09-2024,South,Furniture,Table,10,3491.62,1146.1,
+972,01-06-2024,North,Furniture,Chair,1,1487.08,401.58,
+973,31-05-2025,North,Furniture,Table,8,9747.04,2524.44,
+974,10-04-2024,West,Furniture,Desk,2,1693.12,90.97,
+975,20-02-2025,South,Electronics,Tablet,5,1869.06,653.58,
+976,17-01-2024,West,Office Supplies,Paper,3,3182.67,978.28,
+977,20-08-2025,North,Furniture,Table,13,2927.12,763.8,
+978,08-07-2024,East,Office Supplies,Marker,12,11489.22,3540,
+979,13-03-2024,West,Office Supplies,Paper,9,615.75,109.46,
+980,03-10-2024,South,Office Supplies,Pen,10,,3583.51,
+981,26-02-2024,East,Electronics,Laptop,7,,925.87,
+982,09-01-2025,East,Electronics,Laptop,9,9628.37,1072.73,Female
+983,08-12-2024,South,Office Supplies,Pen,11,8009.87,2657.23,Male
+984,17-08-2025,South,Office Supplies,Notebook,6,3252.08,423.44,Female
+985,27-11-2025,West,Furniture,Chair,2,1143.53,212.38,Male
+986,28-05-2025,North,Furniture,Cabinet,8,7512.06,2178.28,Female
+987,10-12-2025,North,Electronics,Monitor,2,277.3,88.57,Male
+988,22-10-2024,North,Electronics,Phone,5,928.98,87.68,Female
+989,03-06-2024,South,Office Supplies,Pen,5,3182.37,810.62,Male
+990,15-05-2024,West,Furniture,Table,8,8894.48,502.05,Female
+991,12-07-2024,North,Electronics,Phone,14,19911.14,4846.4,Male
+992,25-02-2025,East,Office Supplies,Paper,8,7185.35,1861.43,Female
+993,15-07-2025,West,Furniture,Cabinet,10,2152.92,617.47,Male
+994,24-06-2024,East,Electronics,Monitor,6,8740.03,2455.29,Female
+995,18-02-2024,South,Furniture,Cabinet,8,11481.57,2704.93,Male
+996,13-06-2024,East,Electronics,Phone,14,14952.06,4805.79,Female
+997,06-06-2024,South,Electronics,Laptop,1,1490.78,331.49,Male
+998,27-03-2025,East,Furniture,Desk,4,3409.92,205.98,Female
+999,20-11-2024,East,Electronics,Tablet,8,6552.02,647.2,Male
+1000,04-11-2024,North,Electronics,Monitor,15,11387.06,1066,
+1001,14-04-2025,East,Electronics,Laptop,12,9939.55,2010,Male
+1002,24-10-2025,East,Furniture,Cabinet,13,19128.47,4248.78,Female
+1003,30-05-2024,West,Furniture,Chair,12,8746.71,542.51,MF
+1004,25-11-2025,North,Furniture,Chair,7,6537.53,759.07,M
+1005,31-12-2024,North,Furniture,Chair,10,9691.43,2180.86,Female
+1006,15-08-2024,East,Electronics,Laptop,2,1633.7,300.01,MF
+1007,18-11-2025,North,Office Supplies,Marker,4,2983.55,689.06,M
+1008,07-06-2025,North,Office Supplies,Paper,7,1672.72,512.09,Female
+1009,13-01-2025,West,Furniture,Chair,5,2652.41,377.77,Female
+1010,01-04-2025,North,Electronics,Monitor,12,17868.53,5201.63,M
+1011,22-10-2024,South,Office Supplies,Marker,12,16160.58,1484.68,Female
+1012,24-08-2025,North,Electronics,Phone,5,3612.14,1120.69,MF
+1013,09-12-2024,North,Office Supplies,Marker,2,59.59,14.4,M
+1014,06-10-2024,West,Electronics,Monitor,12,10326.19,3350.45,Female
+1015,23-07-2024,South,Furniture,Cabinet,9,6714.6,1993.16,MF
+1016,05-11-2024,East,Furniture,Table,4,238.89,12.12,MF
+1017,25-09-2024,East,Office Supplies,Marker,2,1975.29,627.76,M
+1018,03-03-2025,South,Furniture,Desk,1,196.64,26.19,
+1019,09-03-2024,East,Office Supplies,Marker,10,6653.81,847.52,M
+1020,03-12-2025,West,Office Supplies,Pen,6,4671.23,1039.72,
+1021,22-09-2024,South,Office Supplies,Pen,3,1479.38,463.78,Male
+1022,18-05-2024,East,Electronics,Laptop,5,2772.61,667.85,Female
+1023,30-12-2024,North,Furniture,Cabinet,9,8690.77,634.84,M
+1024,17-07-2024,South,Electronics,Phone,9,4477.12,648.57,Male
+1025,02-12-2025,East,Furniture,Cabinet,2,1621.88,252.18,Female
+1026,27-05-2024,North,Electronics,Tablet,6,7035.81,1221.41,Female
+1027,15-06-2024,North,Electronics,Phone,9,3125.23,332.92,Female
+1028,26-07-2025,North,Furniture,Table,15,1996.09,590.15,Female
+1029,18-01-2024,West,Furniture,Cabinet,12,6679.22,1971.12,Female
+1030,03-09-2025,East,Electronics,Tablet,1,1121.8,96,Female
+1031,11-05-2024,South,Office Supplies,Notebook,5,1027.55,91.52,Female
+1032,21-03-2024,West,Office Supplies,Pen,2,95.67,18.68,Female
+1033,17-03-2025,North,Electronics,Laptop,1,1193.72,243.57,Female
+1034,01-03-2024,West,Electronics,Tablet,1,118.05,29.55,Female
+1035,08-04-2024,North,Office Supplies,Notebook,10,13537.39,1427.31,Female
+1036,25-12-2024,North,Electronics,Phone,14,15741.22,2096.93,
+1037,16-08-2025,East,Furniture,Desk,14,10653.15,2861.08,Male
+1038,04-09-2024,North,Electronics,Laptop,9,3070.41,329.96,Male
+1039,15-10-2024,South,Office Supplies,Pen,12,1992.66,227.57,Male
+1040,31-05-2025,West,Furniture,Desk,8,8134.54,668.64,Male
+1041,29-12-2024,West,Furniture,Desk,9,3211.02,269.26,Male
+1042,17-11-2024,North,Furniture,Chair,9,1990.35,554.67,Male
+1043,22-12-2025,East,Office Supplies,Pen,2,1011.22,85.67,Male
+1044,17-10-2024,West,Office Supplies,Paper,11,16112.19,2951.54,Male
+1045,21-07-2025,West,Furniture,Table,4,5152.1,1640.56,Male
+1046,02-05-2025,East,Electronics,Laptop,11,8224.04,670.68,Male
+1047,24-03-2025,North,Electronics,Phone,7,4290.47,974.65,Male
+1048,14-04-2024,South,Electronics,Tablet,4,2084.7,476.33,Male
+1049,17-02-2025,North,Electronics,Monitor,12,9104.2,2544.12,Male
+1050,18-08-2025,East,Office Supplies,Marker,6,4345.34,1003.55,Male
+1051,18-02-2025,West,Office Supplies,Paper,3,3469.92,285.96,Male
+1052,13-09-2024,West,Furniture,Desk,11,15562.32,916.89,Male
+1053,24-02-2024,North,Furniture,Chair,3,1758.89,446.34,Male
+1054,05-06-2024,East,Office Supplies,Pen,13,1732.19,477.19,Male
+1055,19-05-2025,West,Electronics,Tablet,11,8325.8,1677.14,Male
+1056,09-07-2025,East,Office Supplies,Pen,13,867.96,155.47,Male
+1057,01-05-2024,West,Furniture,Cabinet,14,8077.69,1517.77,Male
+1058,03-02-2024,South,Office Supplies,Paper,15,15974.51,3154.07,Male
+1059,17-05-2024,East,Office Supplies,Marker,8,9205.89,2031.34,Male
+1060,17-05-2025,West,Furniture,Desk,9,922.42,119.01,Male
+1061,28-08-2025,West,Office Supplies,Paper,13,19072.54,2787.35,Male
+1062,29-01-2024,North,Electronics,Tablet,6,7308.83,1645.88,Male
+1063,02-10-2025,East,Furniture,Chair,7,3715.68,584.14,Male
+1064,25-12-2024,North,Office Supplies,Notebook,4,1468.96,210.99,Male
+1065,27-03-2024,North,Furniture,Chair,6,1627.64,344.29,Male
+1066,08-02-2024,West,Office Supplies,Marker,10,7818.45,1378.8,Male
+1067,21-01-2024,West,Office Supplies,Pen,6,3474.31,580.52,Male
+1068,09-08-2025,North,Furniture,Chair,12,12229.98,1844.16,Male
+1069,29-05-2025,East,Electronics,Tablet,6,8728.52,964.74,Male
+1070,12-10-2025,North,Office Supplies,Notebook,5,2062.15,287.04,Male
+1071,10-08-2025,West,Electronics,Laptop,12,15232.76,1194.55,Male
+1072,10-12-2024,East,Electronics,Monitor,7,2312.9,667.72,Male
+1073,29-10-2025,East,Office Supplies,Paper,7,7013.41,1009.97,Male
+1074,28-02-2025,West,Furniture,Table,11,12648.84,1317.76,Male
+1075,20-01-2024,South,Office Supplies,Marker,4,3991.97,1186.3,Male
+1076,23-04-2025,East,Office Supplies,Marker,15,12867.79,3062.89,Male
+1077,18-06-2025,South,Furniture,Table,3,1127.26,308.79,Male
+1078,03-11-2024,West,Furniture,Cabinet,14,17482.04,1212,Male
+1079,27-07-2024,West,Furniture,Cabinet,11,2834.31,725.74,Male
+1080,29-08-2024,West,Electronics,Laptop,3,912.11,112.81,Male
+1081,13-11-2024,West,Furniture,Table,7,6842.11,418.06,Male
+1082,12-06-2024,East,Electronics,Laptop,5,5943.56,792.46,Male
+1083,17-07-2025,South,Office Supplies,Pen,12,8868.55,496.4,Male
+1084,26-03-2024,East,Office Supplies,Paper,14,1597.41,537.57,Male
+1085,07-01-2025,North,Furniture,Desk,4,742.64,200.77,Male
+1086,03-05-2024,East,Furniture,Chair,4,3630.94,1023.77,Male
+1087,16-11-2024,East,Office Supplies,Marker,13,14658.72,1770.5,Male
+1088,09-03-2025,South,Electronics,Laptop,3,1010.64,133.77,Male
+1089,22-02-2025,East,Office Supplies,Pen,8,6476.28,1683.09,Male
+1090,25-04-2024,East,Office Supplies,Marker,8,8243.62,2794.54,Male
+1091,28-05-2024,East,Furniture,Cabinet,14,6665.31,1623.8,Male
+1092,12-09-2025,North,Office Supplies,Pen,12,16534.04,4157.97,Male
+1093,16-09-2024,West,Furniture,Cabinet,15,18331.96,1587.84,Male
+1094,30-08-2024,West,Furniture,Chair,15,21628.6,7099.64,Male
+1095,18-09-2024,East,Electronics,Phone,5,1656.86,525.35,Male
+1096,25-03-2025,East,Office Supplies,Marker,13,911.88,282.62,Male
+1097,18-05-2025,West,Office Supplies,Marker,15,18973.83,5032.16,Male
+1098,12-04-2024,South,Office Supplies,Paper,9,1064.01,187.54,Male
+1099,14-07-2025,East,Furniture,Chair,13,1262.38,306.1,Male
+1100,07-10-2025,West,Office Supplies,Notebook,1,612.98,146.19,Male
+1101,17-11-2024,North,Electronics,Phone,4,3136.89,1069.36,Male
+1102,26-10-2025,South,Office Supplies,Marker,13,18334.41,3400.06,Male
+1103,16-05-2024,East,Electronics,Tablet,13,5681.78,427.95,Male
+1104,11-01-2025,South,Furniture,Table,14,18603.55,2183.05,Male
+1105,24-01-2024,South,Electronics,Monitor,4,1629.76,497.97,Male
+1106,20-02-2024,West,Office Supplies,Marker,10,4050.34,310.74,Male
+1107,11-01-2025,South,Office Supplies,Pen,1,1083.5,195.62,Male
+1108,09-04-2025,West,Electronics,Phone,12,3847.86,1284.48,Male
+1109,29-09-2024,East,Office Supplies,Marker,7,1488.87,456.94,Male
+1110,06-09-2025,South,Furniture,table,7,2008.63,577.96,Male
+1111,30-01-2024,East,Furniture,Desk,10,6874.46,855.84,Male
+1112,19-08-2025,West,Electronics,Laptop,8,1737.15,255.32,Male
+1113,10-12-2025,West,Office Supplies,Notebook,12,7050.88,1247.92,Male
+1114,03-09-2025,East,Electronics,Laptop,9,962.58,144.25,Male
+1115,28-08-2024,West,Furniture,Chair,1,395.41,93.28,Male
+1116,05-11-2024,West,Office Supplies,Paper,3,4358.18,949.51,Male
+1117,17-08-2025,South,Furniture,Desk,9,6744.63,1023.52,Male
+1118,24-04-2025,South,Electronics,Tablet,12,9660.33,893.95,Male
+1119,29-04-2024,East,Electronics,Phone,8,10480.69,3148.83,Male
+1120,04-01-2025,West,Furniture,Cabinet,10,12477.92,4092.95,Male
+1121,13-06-2025,East,Furniture,Desk,6,6663.4,1315.24,Male
+1122,03-06-2024,West,Electronics,Phone,3,302.28,31.72,Male
+1123,26-04-2025,East,Electronics,Monitor,7,1342.01,427.5,Male
+1124,21-05-2025,North,Furniture,Cabinet,12,10200.78,1910.89,Male
+1125,25-04-2024,South,Electronics,Tablet,2,643.05,86.96,Male
+1126,21-06-2024,East,Office Supplies,Notebook,10,14970.47,767.05,Male
+1127,07-08-2025,South,Furniture,Chair,4,4628.06,1171.23,Male
+1128,02-12-2024,North,Furniture,Chair,7,4010.06,1318.29,Male
+1129,18-04-2024,East,Electronics,Laptop,2,1402.29,367.84,Male
+1130,06-05-2025,West,Office Supplies,Paper,10,9938.49,1479.13,Male
+1131,14-02-2024,West,Furniture,Desk,4,5190.61,1507.7,Male
+1132,16-10-2024,East,Electronics,Laptop,9,12859.31,2114.29,Male
+1133,12-02-2025,East,Electronics,Phone,13,16912.52,1298.15,Male
+1134,01-08-2024,South,Furniture,Table,5,4889.04,1644.33,Male
+1135,06-06-2024,North,Furniture,Table,13,8578.58,2504.14,Male
+1136,13-11-2024,South,Furniture,Chair,14,7893.71,868,Male
+1137,01-04-2025,West,Furniture,Cabinet,10,9085.04,700.15,Male
+1138,08-03-2025,East,Office Supplies,Notebook,7,6673.91,519.79,Male
+1139,09-06-2025,East,Furniture,Desk,11,11391.93,1099.56,Male
+1140,22-05-2025,North,Furniture,Table,7,960.34,278.94,Male
+1141,03-11-2024,South,Electronics,Tablet,14,5432.1,968.65,Male
+1142,05-08-2025,North,Office Supplies,Pen,15,1301.11,107.07,Male
+1143,11-03-2025,West,Electronics,Monitor,11,11946.65,3510.49,Male
+1144,29-12-2024,East,Office Supplies,Pen,13,9946.27,837.28,Male
+1145,08-11-2025,West,Electronics,Phone,14,8422.08,631.55,Male
+1146,22-12-2025,East,Furniture,Table,13,13155.8,3119.81,Male
+1147,28-09-2024,East,Electronics,Phone,3,407.3,140.38,Male
+1148,22-09-2024,North,Furniture,Chair,1,604.5,32.64,Male
+1149,02-11-2025,West,Furniture,Table,14,13907.9,3800.67,Male
+1150,13-05-2025,East,Office Supplies,Paper,12,12206.74,3138.21,Male
+1151,08-02-2025,East,Electronics,Phone,3,121.61,10.16,Male
+1152,17-01-2024,South,Electronics,Phone,8,7839.7,1920.11,Male
+1153,22-03-2025,South,Electronics,Tablet,13,9176.31,1763.66,Male
+1154,23-01-2024,North,Electronics,Phone,12,12718.14,4313.49,Male
+1155,27-04-2025,North,Furniture,Desk,4,1825.4,545.49,Male
+1156,05-02-2025,North,Furniture,Chair,2,1906.01,503.05,Male
+1157,01-03-2025,West,Office Supplies,Paper,1,741.49,145.21,Male
+1158,28-08-2025,West,Electronics,Laptop,9,433.34,96.6,Male
+1159,20-07-2025,North,Furniture,Table,15,10808.1,2144.72,Male
+1160,23-10-2025,East,Furniture,Table,1,258.77,69.31,Male
+1161,25-04-2025,East,Furniture,Desk,9,3106.44,1002.51,Male
+1162,13-12-2024,West,Electronics,Tablet,12,12874.2,4350.72,Male
+1163,20-11-2025,East,Furniture,Desk,10,3266.69,840.22,Male
+1164,29-03-2024,West,Electronics,Phone,4,1005.38,198.72,Male
+1165,01-03-2025,West,Furniture,Desk,4,3376.44,1181.01,Male
+1166,02-01-2025,East,Furniture,Desk,3,3736.09,1189.34,Male
+1167,02-02-2024,North,Furniture,Table,2,1867.99,161.03,Male
+1168,17-08-2024,West,Furniture,Cabinet,13,7094.84,454.09,Male
+1169,24-07-2025,East,Electronics,Laptop,12,1135.5,379.12,Male
+1170,13-04-2025,North,Electronics,,14,11934.44,2413.04,Male
+1171,20-06-2024,North,Electronics,Tablet,3,3293.87,864.47,Male
+1172,02-06-2025,West,Office Supplies,Pen,3,2933.09,441.08,Male
+1173,21-05-2024,North,Electronics,Monitor,7,8109.11,421.48,Male
+1174,30-04-2025,East,Furniture,Desk,2,827.41,218.9,Male
+1175,28-02-2025,East,Office Supplies,Notebook,3,3404.24,711.13,Male
+1176,21-08-2024,South,Furniture,Table,15,9386.67,1761.18,Male
+1177,12-06-2025,East,Electronics,Monitor,3,3479.47,923.06,Male
+1178,13-06-2025,North,Electronics,Tablet,6,3686.66,1038.58,Male
+1179,20-03-2025,North,Furniture,Chair,11,15238.61,1452.02,Male
+1180,11-08-2025,North,Office Supplies,Paper,7,4304.75,1094.53,Male
+1181,20-07-2025,East,Office Supplies,Paper,15,7940.29,2367.01,Male
+1182,24-06-2025,South,Office Supplies,Marker,8,7783.53,2461.73,Male
+1183,01-10-2025,West,Office Supplies,Paper,15,18322.65,4482.22,Male
+1184,21-07-2024,East,Electronics,Laptop,9,4635.45,1240.12,Male
+1185,09-05-2024,East,Electronics,Laptop,9,7529.79,1554.15,Male
+1186,12-10-2025,South,Electronics,Laptop,15,17984.49,4095.99,Male
+1187,04-09-2024,East,Office Supplies,Marker,9,1651.09,112.25,Male
+1188,16-01-2025,East,Office Supplies,Paper,2,181.29,44.47,Male
+1189,07-05-2024,West,Furniture,Chair,8,4173.53,504.28,Male
+1190,18-08-2025,South,Furniture,Cabinet,5,5035.23,1482.99,Male
+1191,09-08-2025,South,Office Supplies,Marker,9,10003.66,815.98,Male
+1192,12-06-2025,South,Furniture,Table,2,473.8,84.2,Male
+1193,25-02-2025,North,Electronics,Laptop,7,9344.96,1802.42,Male
+1194,01-04-2025,North,Furniture,Table,10,8472.73,2403.27,Male
+1195,27-09-2024,West,Office Supplies,Marker,8,8317.97,2781.08,Male
+1196,02-03-2025,South,Electronics,Phone,8,8580.02,762.04,Male
+1197,22-12-2025,North,Office Supplies,Notebook,8,5764.53,1579.19,Male
+1198,26-07-2025,East,Electronics,Monitor,2,397.76,88.12,Male
+1199,11-02-2024,South,Electronics,Tablet,5,7433.55,1047.97,Male
+1200,12-05-2025,North,Electronics,Phone,13,11604.37,749.59,Male
+1201,08-11-2024,East,Electronics,Phone,14,15605.76,790.05,Male
+1202,14-07-2025,East,Electronics,Laptop,7,5124.99,732.42,Male
+1203,08-04-2025,East,Furniture,Table,14,15199.09,3521.83,Male
+1204,21-05-2024,West,Furniture,Table,3,3906.57,576.47,Male
+1205,01-10-2025,West,Furniture,Desk,15,9077.82,1927.21,Male
+1206,17-11-2025,West,Office Supplies,Paper,11,1661.27,165.6,Male
+1207,26-01-2024,East,Office Supplies,Pen,11,9326.26,1004.7,Male
+1208,25-09-2025,North,Office Supplies,Notebook,13,9415.08,3003.97,Male
+1209,03-05-2024,South,Electronics,Tablet,13,4219.69,1261.3,Male
+1210,16-08-2025,West,Electronics,Tablet,7,6240.93,1232.22,Male
+1211,24-01-2024,East,Furniture,Desk,7,389.23,81.1,Male
+1212,26-01-2025,East,Electronics,Laptop,2,1643.67,222.89,Male
+1213,06-07-2024,East,Electronics,Phone,5,7146.02,1812.11,Male
+1214,01-03-2024,East,Electronics,Laptop,12,1278.99,213.57,Male
+1215,23-11-2024,South,Furniture,Cabinet,5,2878.8,858.81,Male
+1216,03-05-2024,North,Electronics,Phone,13,11746.37,1420.69,Male
+1217,04-06-2025,West,Electronics,Tablet,1,491.14,106.05,Male
+1218,08-03-2024,West,Electronics,Monitor,11,4025.29,1271.37,Male
+1219,02-10-2024,North,Electronics,Phone,5,4305.02,791.24,Male
+1220,13-10-2025,South,Electronics,Tablet,9,13304.31,3786.5,Male
+1221,04-07-2025,West,Office Supplies,Marker,1,21.48,4.07,Male
+1222,27-09-2025,East,Office Supplies,Notebook,1,109.06,35.61,Male
+1223,06-10-2024,East,Office Supplies,Marker,6,7600.86,865.18,Male
+1224,06-06-2025,East,Electronics,Phone,12,9725.43,690.32,Male
+1225,01-04-2024,West,Office Supplies,Pen,14,3173.55,688.48,Male
+1226,13-10-2024,West,Electronics,Tablet,15,15442.64,2359.49,Male
+1227,24-09-2024,West,Furniture,Desk,11,16223.6,2473.92,Male
+1228,15-04-2025,East,Electronics,Phone,11,15234.36,3544.06,Male
+1229,05-01-2024,North,Office Supplies,Notebook,7,5897.99,1527.27,Male
+1230,15-05-2025,West,Office Supplies,Pen,13,17128.1,4202.89,Male
+1231,05-07-2025,North,Office Supplies,Marker,11,2229.21,761.52,Male
+1232,20-01-2025,East,Furniture,Desk,14,16192.25,4195.56,Male
+1233,09-01-2024,North,Furniture,Cabinet,15,4584.4,242.1,Male
+1234,21-01-2024,East,Office Supplies,Paper,4,612.6,143.37,Male
+1235,06-11-2024,South,Electronics,Monitor,6,446.75,88.39,Male
+1236,21-12-2025,South,Electronics,Phone,14,13508.4,1125.03,Male
+1237,11-10-2024,West,Electronics,Phone,11,12247.91,3082.22,Male
+1238,09-09-2025,South,Electronics,Phone,12,1395.28,178.44,Male
+1239,06-08-2025,South,Office Supplies,Paper,4,5098.19,290.27,Male
+1240,10-12-2025,East,Office Supplies,Marker,1,1408.08,341.16,Male
+1241,27-10-2025,North,Furniture,Table,14,20898.61,2763.02,Male
+1242,27-11-2025,West,Furniture,Cabinet,9,10290.17,3242.85,Male
+1243,17-08-2024,North,Furniture,Table,9,6158.84,317.47,Male
+1244,18-07-2024,East,Electronics,Laptop,12,4247.15,1090.94,Male
+1245,17-03-2024,South,Electronics,Phone,6,2879.96,684.85,Male
+1246,09-04-2024,North,Furniture,Table,13,722.21,208.84,Male
+1247,08-12-2024,East,Electronics,Laptop,8,2982.17,454.01,Male
+1248,25-02-2024,East,Office Supplies,Notebook,2,2336.22,551.04,Male
+1249,07-04-2024,West,Office Supplies,Pen,2,2924.6,950.54,Male
+1250,21-01-2025,East,Office Supplies,Pen,13,2713.79,883.98,Male
+1251,28-03-2025,North,Furniture,Table,2,341.41,22.78,Male
+1252,23-02-2024,East,Furniture,Table,2,1867.21,323.65,Male
+1253,05-09-2025,North,Furniture,Table,8,9574.75,3006.29,Male
+1254,26-09-2025,North,Furniture,Chair,8,6283.8,1422.3,Male
+1255,20-04-2024,North,Electronics,Laptop,10,11883.36,1284.41,Male
+1256,09-08-2025,South,Office Supplies,Paper,6,3858.54,1031.72,Male
+1257,31-03-2025,South,Electronics,Phone,13,1107.92,97.83,Male
+1258,21-08-2025,West,Office Supplies,Paper,5,4419.13,938.37,Male
+1259,29-05-2024,South,Furniture,Cabinet,10,5274.92,847.41,Male
+1260,09-01-2024,South,Electronics,Phone,9,11091.53,2416.12,Male
+1261,25-02-2024,West,Furniture,Desk,4,3872.08,427.39,Male
+1262,11-03-2024,East,Electronics,Monitor,12,12527.1,2382.91,Male
+1263,10-12-2025,East,Office Supplies,Paper,10,4634.55,688.63,Male
+1264,17-04-2024,West,Electronics,Monitor,4,5526.13,1335.28,Male
+1265,10-12-2025,South,Furniture,Desk,4,2926.02,820.76,Male
+1266,05-12-2024,West,Electronics,Monitor,3,3727.81,193.91,Male
+1267,11-01-2024,North,Furniture,Chair,9,1714.32,235.16,Male
+1268,18-07-2024,East,Electronics,Laptop,4,1251.12,127.92,Male
+1269,25-09-2024,South,Furniture,Desk,3,930.18,95.64,Male
+1270,25-09-2024,North,Electronics,Phone,7,6924.44,2184.68,Male
+1271,12-12-2024,South,Furniture,Table,4,2268.27,366.79,Male
+1272,24-06-2024,West,Office Supplies,Pen,2,467.52,152.99,Male
+1273,13-07-2024,South,Office Supplies,Marker,12,6886.77,1583.03,Male
+1274,13-10-2025,South,Electronics,Phone,14,11374.9,3263.19,Male
+1275,01-12-2024,South,Electronics,Tablet,14,2900.22,587.24,
+1276,21-08-2025,West,Electronics,Laptop,13,9315.64,2320.07,
+1277,07-03-2024,South,Office Supplies,Marker,13,17237.8,4746.27,
+1278,18-01-2025,West,Office Supplies,Marker,3,1488.89,241.44,
+1279,12-12-2025,West,Office Supplies,Marker,8,3337.09,568.25,
+1280,20-08-2025,North,Electronics,Phone,15,4806.61,1485,
+1281,09-02-2025,South,Furniture,Table,15,8671.24,842.52,
+1282,18-01-2025,East,Office Supplies,Pen,3,3397.21,470.56,
+1283,15-06-2025,East,Electronics,Laptop,8,6225.18,939.46,
+1284,06-04-2025,West,Furniture,Table,6,7264,1054.05,
+1285,26-01-2025,North,Electronics,Monitor,4,1652.5,120.25,
+1286,25-03-2024,East,Office Supplies,Pen,13,5578.42,660.05,
+1287,01-05-2024,North,Furniture,Chair,9,2848.08,310.42,
+1288,03-12-2024,East,Furniture,Cabinet,4,4257.4,1487.53,
+1289,10-07-2025,East,Electronics,Tablet,5,6185.09,1762.37,
+1290,17-02-2025,West,Office Supplies,Pen,8,7904.44,2741.12,Female
+1291,01-06-2024,West,Electronics,Phone,12,13544.67,2605.07,Female
+1292,12-06-2025,West,Office Supplies,Marker,6,7152.2,1029.36,Female
+1293,11-07-2024,West,Office Supplies,Marker,4,2676.99,818.85,Female
+1294,31-01-2024,East,Electronics,Phone,5,7080.82,374.61,Female
+1295,05-11-2025,East,Furniture,Desk,7,4550.45,1254.96,Female
+1296,08-12-2025,East,Furniture,Chair,10,11823.3,3862,Female
+1297,06-06-2024,East,Office Supplies,Marker,7,2255.56,377.11,Female
+1298,01-07-2025,West,Electronics,Monitor,2,1013.37,343.11,Female
+1299,16-10-2025,East,Electronics,Phone,2,2037.66,210.47,Female
+1300,06-12-2025,West,Electronics,Phone,4,491.39,166.53,Female
+1301,17-10-2024,South,Electronics,Tablet,11,8757.16,1632.33,Female
+1302,12-01-2025,North,Electronics,Tablet,14,19131.31,3201.27,Female
+1303,23-04-2024,South,Office Supplies,Marker,8,8958.81,1493.41,Female
+1304,30-07-2024,South,Electronics,Tablet,7,8613.4,2148.51,Female
+1305,11-06-2024,East,Office Supplies,Notebook,9,9727.4,1825.71,Female
+1306,25-07-2024,North,Electronics,Monitor,2,2480.76,574.18,Female
+1307,09-09-2024,East,Office Supplies,Marker,8,5638.31,348.03,Female
+1308,03-04-2024,East,Office Supplies,Marker,6,6338.81,1670.24,Female
+1309,31-10-2024,West,Office Supplies,Notebook,7,2721.04,870.7,Female
+1310,18-03-2025,West,Furniture,Desk,12,10338.61,1737.56,Female
+1311,14-02-2024,South,Electronics,Tablet,15,14243.45,1959.43,Female
+1312,09-03-2024,South,Furniture,Table,13,10896.33,3798.41,Female
+1313,19-03-2024,North,Office Supplies,Paper,7,4811.7,605.46,Female
+1314,02-06-2025,North,Furniture,Chair,2,1931.05,487.95,Female
+1315,17-04-2025,West,Furniture,Table,14,4308.04,264.22,Female
+1316,13-09-2024,North,Office Supplies,Notebook,6,6072.22,1149.31,Female
+1317,17-04-2025,North,Electronics,Phone,12,17112.33,1575.65,Female
+1318,12-10-2024,South,Electronics,Laptop,10,1687.62,233.3,Female
+1319,01-07-2025,West,Electronics,Laptop,11,12651.23,3203.48,Female
+1320,06-06-2024,West,Furniture,Desk,4,4309.32,1369.53,Female
+1321,29-06-2025,South,Furniture,Chair,14,13432.86,2778.75,Female
+1322,09-11-2025,North,Furniture,Cabinet,8,780.6,40.12,Female
+1323,21-01-2025,South,Electronics,Tablet,15,5595.6,433.19,Female
+1324,07-03-2025,North,Electronics,Tablet,14,4261.39,1068.27,Female
+1325,13-08-2024,North,Office Supplies,Notebook,12,3206.76,560.23,Female
+1326,20-04-2024,East,Furniture,Desk,10,3265.37,693.93,Female
+1327,14-03-2025,North,Electronics,Phone,2,1095.47,111.83,Female
+1328,15-02-2025,East,Electronics,Monitor,4,2795.95,195.17,Female
+1329,12-10-2024,East,Electronics,Laptop,15,5152.05,723.66,Female
+1330,05-09-2025,West,Electronics,Phone,5,7196.86,1654.99,Female
+1331,08-10-2025,West,Office Supplies,Notebook,6,1676.94,467.05,Female
+1332,05-12-2025,East,Office Supplies,Marker,2,1031.91,239.98,Female
+1333,22-08-2025,West,Furniture,Desk,9,8005.08,2773.87,Female
+1334,26-08-2024,North,Office Supplies,Pen,5,1849.33,330.2,Female
+1335,06-09-2024,North,Electronics,Phone,6,4548.69,503.1,Female
+1336,19-01-2025,South,Office Supplies,Pen,4,5546.58,1272.51,Female
+1337,30-03-2025,East,Electronics,Tablet,6,5835.19,1623.05,Female
+1338,17-06-2025,West,Office Supplies,Paper,13,715.86,217.68,Female
+1339,05-12-2024,East,Electronics,Phone,9,900.27,292.86,Female
+1340,11-09-2024,South,Office Supplies,Marker,9,4464.2,815.65,Female
+1341,07-01-2024,North,Furniture,Chair,4,388.47,135.03,Female
+1342,28-07-2024,South,Electronics,Phone,10,8322.94,2401.75,Female
+1343,28-07-2024,South,Office Supplies,Pen,7,7650.89,1097.44,Female
+1344,21-07-2024,South,Furniture,Desk,10,3884.75,526.79,Female
+1345,04-04-2025,South,Furniture,Table,2,2855,450.73,Female
+1346,21-01-2025,South,Furniture,Table,7,5374.83,1453.78,Female
+1347,08-06-2024,West,Electronics,Monitor,7,8987.88,2495.55,Female
+1348,03-11-2024,South,Office Supplies,Notebook,5,2915.33,413.26,Female
+1349,17-10-2024,West,Office Supplies,Marker,2,1026.37,271.43,Female
+1350,19-07-2024,South,Electronics,Laptop,1,1295.25,348.57,Female
+1351,18-01-2025,West,Furniture,Table,7,10194.3,1650.9,Female
+1352,16-05-2025,East,Office Supplies,Pen,7,9308.6,3236.99,Female
+1353,07-05-2024,West,Office Supplies,Notebook,4,4596.67,1549.67,Female
+1354,22-12-2024,West,Office Supplies,Paper,12,1264.83,209.46,Female
+1355,10-03-2025,South,Electronics,Monitor,1,1383.77,219.22,Female
+1356,24-12-2025,North,Office Supplies,Notebook,5,4580.22,1526.49,Female
+1357,30-05-2024,East,Electronics,Phone,1,192.76,14.98,Female
+1358,29-12-2025,West,Furniture,Chair,9,12300.52,3847.63,Female
+1359,18-06-2024,West,Furniture,Cabinet,9,13069.54,3235.31,Female
+1360,26-01-2025,East,Office Supplies,Marker,13,17121.95,4593.74,Female
+1361,01-04-2024,North,Office Supplies,Paper,14,3237.02,888.95,Female
+1362,11-02-2025,East,Electronics,Phone,14,10468.51,827.65,Female
+1363,14-12-2025,West,Office Supplies,Marker,11,4914.18,881.04,Female
+1364,29-06-2024,East,Electronics,Phone,4,2959.91,594.3,Female
+1365,22-04-2024,West,Office Supplies,Notebook,3,952.18,261.83,Female
+1366,15-07-2024,East,Furniture,Table,11,15083.17,1248.26,Female
+1367,13-10-2025,South,Electronics,Tablet,2,1158.08,154.06,Female
+1368,16-12-2024,North,Office Supplies,Notebook,8,5904.7,1642.45,Female
+1369,10-01-2024,North,Furniture,Chair,11,9702.21,3359.74,Female
+1370,09-04-2024,South,Office Supplies,Pen,7,6386.92,2210.32,Female
+1371,29-09-2024,West,Furniture,Cabinet,10,6555.91,1057.05,Female
+1372,17-12-2024,East,Electronics,Tablet,11,6707.11,1564.38,Female
+1373,30-12-2024,East,Electronics,Laptop,8,10467.21,1785.1,Female
+1374,22-05-2024,North,Office Supplies,Pen,14,11274.64,3780.6,Female
+1375,11-09-2024,East,Furniture,Table,9,5682.85,604.54,Female
+1376,15-10-2025,East,Electronics,Tablet,14,1228.03,358.91,Female
+1377,29-11-2024,West,Electronics,Monitor,7,7798.16,2247.34,Female
+1378,22-12-2024,West,Furniture,Chair,12,7075.09,1642.5,Female
+1379,30-12-2025,South,Office Supplies,Pen,3,2270.79,172.87,Female
+1380,20-11-2025,West,Electronics,Monitor,2,1467.22,311.34,Female
+1381,06-09-2024,South,Electronics,Laptop,2,1327.28,351.37,Female
+1382,13-06-2024,East,Furniture,Cabinet,4,4337.52,1083.42,Female
+1383,17-11-2025,North,Office Supplies,Notebook,15,12166.86,3256.15,Female
+1384,02-04-2024,East,Electronics,Laptop,11,5807.72,1876.18,Female
+1385,25-01-2025,West,Electronics,Phone,5,956.11,72.96,Female
+1386,01-04-2024,East,Office Supplies,Notebook,12,16970.06,3764.84,Female
+1387,10-05-2024,East,Furniture,Chair,5,557.95,117.55,Female
+1388,01-02-2025,West,Furniture,Cabinet,13,13329.77,3851.9,Female
+1389,16-06-2025,South,Electronics,Monitor,1,816.67,153.68,Female
+1390,28-05-2024,East,Electronics,Monitor,11,7640.17,1760.6,Female
+1391,29-05-2024,North,Office Supplies,Paper,5,3817.6,979.52,Female
+1392,07-10-2024,West,Office Supplies,Notebook,8,3611.3,1227.66,Female
+1393,01-03-2024,East,Electronics,Phone,14,15460.68,4531.92,Female
+1394,18-12-2025,North,Electronics,Monitor,12,7198.51,2485.77,Female
+1395,06-11-2025,South,Electronics,Monitor,6,3871.24,743.38,Female
+1396,22-12-2024,West,Furniture,Chair,9,9860.37,1328.28,Female
+1397,18-07-2024,West,Electronics,Phone,6,6800.13,1524.01,Female
+1398,25-02-2024,East,Furniture,Desk,10,2235.9,578.62,Female
+1399,25-10-2024,South,Electronics,Phone,13,14658.88,3966.63,Female
+1400,10-01-2024,East,Office Supplies,Pen,11,13007.93,4000.32,Female
+1401,20-01-2025,West,Office Supplies,Notebook,15,1550.56,242.93,Female
+1402,30-04-2025,South,Electronics,Laptop,9,8839.3,2015.52,Female
+1403,01-06-2024,West,Electronics,Laptop,2,752.93,148.02,Female
+1404,05-12-2025,South,Office Supplies,Marker,13,13570.13,3916.31,Female
+1405,05-11-2025,North,Furniture,Table,5,4779.27,877.17,Female
+1406,12-01-2024,North,Electronics,Laptop,2,1488.09,372.97,Female
+1407,05-06-2025,South,Electronics,Monitor,5,5233.57,410.13,Female
+1408,30-08-2025,South,Furniture,Table,11,11660.56,1626.75,Female
+1409,08-05-2024,North,Furniture,Chair,12,16381.72,4727.23,Female
+1410,08-07-2024,West,Office Supplies,Pen,7,5900.78,1244.62,Female
+1411,26-06-2025,West,Electronics,Laptop,13,14747.49,5009.79,Female
+1412,30-04-2024,South,Office Supplies,Notebook,1,840.99,244.02,Female
+1413,05-05-2024,North,Electronics,Phone,11,2844.5,622.23,Female
+1414,05-02-2024,North,Electronics,Tablet,6,8700.53,882.94,Female
+1415,04-11-2025,North,Electronics,Tablet,1,1420.4,292.37,Female
+1416,27-10-2024,West,Electronics,Monitor,12,5797.74,1874.03,Female
+1417,26-12-2024,South,Office Supplies,Pen,11,13565.75,1643.22,Female
+1418,11-07-2024,South,Furniture,Desk,3,2733.52,313.84,Female
+1419,02-01-2025,East,Electronics,Monitor,2,1667.55,213.78,Female
+1420,27-10-2025,South,Furniture,Table,2,2836.43,717.5,Female
+1421,12-12-2025,South,Office Supplies,Notebook,2,1903.52,249.02,Female
+1422,10-10-2025,South,Office Supplies,Paper,10,9928.31,2940.29,Female
+1423,11-09-2025,South,Furniture,Desk,6,8932.95,1608.72,Female
+1424,27-01-2024,South,Electronics,Tablet,2,1613.15,411.67,Female
+1425,20-02-2025,North,Furniture,Chair,6,8194.1,2322.38,Female
+1426,29-05-2024,South,Furniture,Chair,2,1156.38,393.9,Female
+1427,22-01-2025,North,Electronics,Phone,9,9881.32,1402.8,Female
+1428,16-05-2025,North,Office Supplies,Paper,12,10401.53,1400.04,Female
+1429,04-10-2024,North,Electronics,Phone,6,8525.01,1422.56,Female
+1430,19-12-2024,West,Furniture,Desk,5,170.28,34.75,Female
+1431,08-06-2024,South,Electronics,Monitor,10,11084.25,730,Female
+1432,16-10-2025,East,Office Supplies,Notebook,11,10129.68,2654.34,Female
+1433,06-07-2024,West,Furniture,Table,9,4000.44,1343.29,Female
+1434,17-06-2025,South,Furniture,Chair,5,3108.21,447.03,Female
+1435,02-04-2024,North,Electronics,Phone,2,528.73,35.54,Female
+1436,19-10-2024,West,Electronics,Monitor,11,8501.35,2288.9,Female
+1437,06-05-2025,West,Office Supplies,Pen,7,284.01,30.4,Female
+1438,08-01-2024,West,Office Supplies,Paper,4,5965.79,1481.62,Female
+1439,24-06-2025,North,Office Supplies,Marker,3,3054.88,961,Female
+1440,20-06-2025,South,Electronics,Laptop,6,7573.95,1545.88,Female
+1441,22-02-2024,West,Furniture,Table,3,1717.38,144.21,Female
+1442,26-11-2025,South,Office Supplies,Pen,5,2313.92,319.47,Female
+1443,06-08-2024,North,Office Supplies,Marker,4,5544.49,1822.66,Female
+1444,20-10-2025,North,Furniture,Table,1,546.5,128.24,Female
+1445,02-12-2024,East,Furniture,Chair,1,537.59,143.39,Female
+1446,15-02-2025,East,Electronics,Laptop,7,5237.6,395.04,Female
+1447,10-06-2025,South,Furniture,Chair,15,11120.55,1075.24,Female
+1448,03-11-2025,East,Electronics,Monitor,7,4017.85,640.24,Female
+1449,05-07-2024,East,Electronics,Monitor,11,13884.74,1368.35,Female
+1450,28-12-2024,West,Electronics,Tablet,15,19625.41,2149.76,Female
+1451,13-07-2024,East,Electronics,Phone,7,4502.14,672.46,Female
+1452,02-02-2024,South,Office Supplies,Notebook,8,11522.83,3973.98,Female
+1453,01-05-2024,West,Furniture,Table,13,13376.61,1180.22,Female
+1454,13-02-2025,West,Electronics,Laptop,2,2386.43,209.62,Female
+1455,18-12-2024,North,Office Supplies,Notebook,1,1023.9,156.29,Female
+1456,03-09-2025,North,Furniture,Table,5,2188.45,163.66,Female
+1457,15-03-2025,South,Office Supplies,Notebook,12,9319.62,1163.46,Female
+1458,27-04-2024,East,Office Supplies,Notebook,11,13579.52,1487.28,Female
+1459,24-12-2025,North,Office Supplies,Notebook,4,5955.91,1354.13,Female
+1460,11-10-2025,South,Electronics,Laptop,3,1841.7,243.4,Female
+1461,15-07-2024,South,Furniture,Chair,10,3154.72,975.77,Female
+1462,24-01-2025,West,Office Supplies,Paper,12,11487.59,1371.94,Female
+1463,10-12-2024,West,Furniture,Chair,9,5868.61,384.37,Female
+1464,22-04-2024,East,Furniture,Cabinet,6,6438.88,799,Female
+1465,18-02-2024,South,Electronics,Laptop,1,997.44,146.12,Female
+1466,19-10-2024,West,Furniture,Chair,7,2054.94,687.37,Female
+1467,07-01-2025,East,Furniture,Chair,2,2020.08,514.9,Female
+1468,13-05-2024,East,Furniture,Cabinet,12,14071.64,2936.17,Female
+1469,15-01-2025,South,Office Supplies,Paper,4,3539.22,269.58,Female
+1470,18-04-2024,South,Office Supplies,Pen,1,888.11,287.44,Female
+1471,01-11-2025,South,Electronics,Monitor,15,2489.75,827.95,Female
+1472,25-09-2025,East,Furniture,Table,13,4146.46,1103.92,Female
+1473,14-02-2024,South,Electronics,Monitor,9,9658.55,3066.36,Female
+1474,27-07-2025,East,Furniture,Table,11,11898.07,3846.11,Female
+1475,10-03-2024,West,Furniture,Chair,3,2720.24,704.57,Female
+1476,12-05-2024,East,Electronics,Laptop,13,18970.4,2030.92,Female
+1477,11-02-2025,West,Office Supplies,Pen,3,2003.59,406.3,Female
+1478,29-07-2025,West,Furniture,Cabinet,4,1169.67,114.63,Female
+1479,11-08-2024,North,Office Supplies,Marker,9,9607.28,1993.72,Female
+1480,06-11-2024,South,Furniture,Cabinet,9,1766.46,206.99,Female
+1481,30-06-2025,South,Furniture,Chair,11,2631.71,829.2,Female
+1482,16-05-2024,East,Electronics,Phone,14,4630.63,392.93,Female
+1483,26-10-2025,East,Office Supplies,Paper,6,859.23,224.81,Female
+1484,16-07-2025,East,Office Supplies,Notebook,7,9446.76,1308.08,Female
+1485,28-02-2024,North,Furniture,Desk,12,17382.44,1790.75,
+1486,17-01-2024,North,Office Supplies,Marker,11,4409.58,1048.9,
+1487,10-09-2025,South,Furniture,Desk,6,2506.89,562.79,
+1488,08-02-2025,South,Furniture,Desk,12,13138.84,2109.99,
+1489,05-05-2025,North,Furniture,Desk,8,2350.73,725.68,
+1490,12-07-2024,West,Furniture,Notebook,11,4811.68,688.3,
+1491,30-06-2024,West,Office Supplies,Notebook,2,464.83,82.7,
+1492,10-04-2025,West,Electronics,Phone,12,13567.89,726.38,
+1493,12-04-2024,West,Furniture,Chair,2,2486.62,693.85,
+1494,21-10-2025,North,Electronics,Phone,13,1868.38,173.37,Male
+1495,04-10-2025,North,Electronics,Laptop,9,9985.27,1512.94,Female
+1496,25-12-2025,North,Electronics,Phone,8,9154.51,2908.54,Male
+1497,16-06-2024,East,Furniture,Table,3,1142.51,243.42,Female
+1498,30-09-2024,North,Electronics,Laptop,2,1652.14,133.44,Male
+1499,01-03-2025,South,Electronics,Phone,1,355.48,58.87,Female
+1500,27-12-2024,East,Electronics,Monitor,11,14615.17,4338.3,Female
